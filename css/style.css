@@ -42,39 +42,32 @@
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+/* body 样式 */
 body {
     font-family: Arial;
     margin: 0;
 }
-.row {  
-    display: -ms-flexbox; 
-    display: flex;
-    -ms-flex-wrap: wrap; 
-    flex-wrap: wrap;
-}
-.side {
-    -ms-flex: 30%; 
-    flex: 30%;
-    background-color: #f1f1f1;
-    padding: 20px;
-}
-.main {   
-    -ms-flex: 70%; 
-    flex: 70%;
-    background-color: white;
-    padding: 20px;
+
+/* 标题 */
+.header {
+    padding: 80px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
 }
 
-.fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
+/* 标题字体加大 */
+.header h1 {
+    font-size: 40px;
 }
-/* default navbar */
+
+/* 导航 */
 .navbar {
     overflow: hidden;
     background-color: #333;
 }
+
+/* 导航栏样式 */
 .navbar a {
     float: left;
     display: block;
@@ -83,32 +76,46 @@ body {
     padding: 14px 20px;
     text-decoration: none;
 }
+
+/* 右侧链接*/
 .navbar a.right {
     float: right;
 }
+
+/* 鼠标移动到链接的颜色 */
 .navbar a:hover {
     background-color: #ddd;
     color: black;
 }
-/* grey navbar*/
-.navbar-color-grey {
-    overflow: hidden;
-    background-color: #333;
+
+/* 列容器 */
+.row {  
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
 }
-.navbar-color-grey a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
+
+/* 创建两个列 */
+/* 边栏 */
+.side {
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
 }
-.navbar-color-grey a.right {
-    float: right;
+
+/* 主要的内容区域 */
+.main {   
+    -ms-flex: 70%; /* IE10 */
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
 }
-.navbar-color-grey a:hover {
-    background-color: #ddd;
-    color: black;
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
 }
 @media screen and (max-width: 700px) {
     .row {   
