@@ -1,5 +1,5 @@
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.0.7/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.0.7/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.0.8/css/style.css" rel="stylesheet"<div class="dropdown">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.0.8/js/plugins.js"></script>
 <title>Test Page</title>
 <body onload="snackbar()">
 <div class="header">
@@ -7,6 +7,14 @@
 </div>
 <div class="navbar">
   <a href="http://zjy.js.org/road">历程</a>
+  <div class="dropdown">
+<button onclick="dropdown()" class="dropbtn">下拉菜单</button>
+  <div id="dropdown" class="dropdown-content">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
 </div>
 <div id="snackbar">欢迎访问<strong>xxx</strong>的个人网站！</div>
 <div class="row">
