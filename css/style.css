@@ -75,30 +75,6 @@ body {
     background-color: #ddd;
     color: black;
 }
-
-.navbar-top {
-    overflow: hidden;
-    background-color: #333;
-    position:fixed;
-    top:0;
-    left:0;
-    width:100%;
-}
-.navbar-top a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-}
-.navbar-top a.right {
-    float: right;
-}
-.navbar-top a:hover {
-    background-color: #ddd;
-    color: black;
-}
 .row {  
     display: -ms-flexbox; 
     display: flex;
