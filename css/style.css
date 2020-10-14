@@ -75,7 +75,7 @@ body {
     background-color: #ddd;
     color: black;
 }
-.row {  
+.row-default {  
     display: -ms-flexbox; 
     display: flex;
     -ms-flex-wrap: wrap; 
@@ -93,8 +93,6 @@ body {
     background-color: white;
     padding: 20px;
 }
-
-/* 测试图片 */
 .fakeimg {
     background-color: #aaa;
     width: 100%;
@@ -105,6 +103,11 @@ body {
     text-align: center;
     background: #E6E6E6;
     color: grey
+}
+@media screen and (max-width: 700px) {
+    .row-default {   
+        flex-direction: column;
+    }
 }
 @media screen and (max-width: 400px) {
     .navbar a {
