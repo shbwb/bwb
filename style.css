@@ -1,3 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    margin: 0;
+}
 #snackbar {
     visibility: hidden;
     min-width: 250px;
