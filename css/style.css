@@ -46,3 +46,48 @@ body {
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+/* default navbar */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a.right {
+    float: right;
+}
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+/* grey navbar*/
+.navbar-color-grey {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar-color-grey a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar-color-grey a.right {
+    float: right;
+}
+.navbar-color-grey a:hover {
+    background-color: #ddd;
+    color: black;
+}
