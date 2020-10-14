@@ -79,8 +79,8 @@ body {
 .navbar-top {
     overflow: hidden;
     background-color: #333;
-    position:fixed;
-	top:0px;
+    position: fixed;
+    top: 0;
 }
 .navbar-top a {
     float: left;
