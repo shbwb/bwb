@@ -81,13 +81,13 @@ body {
     -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
 }
-.side {
+.side-default {
     -ms-flex: 30%; 
     flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
 }
-.main {   
+.main-default {   
     -ms-flex: 70%; 
     flex: 70%;
     background-color: white;
@@ -98,7 +98,7 @@ body {
     width: 100%;
     padding: 20px;
 }
-.footer {
+.footer-default {
     padding: 20px;
     text-align: center;
     background: #E6E6E6;
