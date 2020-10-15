@@ -1,8 +1,8 @@
 # blog.js
 A clean blog builder
-# Language
+# 语言
 [English](https://github.com/crqblog/blog.js/)
-# Help
+# 帮助
 * [开始](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#开始)
 
 * [导航栏](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#导航栏)
