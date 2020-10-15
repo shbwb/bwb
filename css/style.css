@@ -11,7 +11,7 @@
     user-select: none;
 }
 /* The actual popup */
-.info .popuptext {
+.info .infotext {
     visibility: hidden;
     width: 160px;
     background-color: #555;
@@ -26,7 +26,7 @@
     margin-left: -80px;
 }
 /* Popup arrow */
-.info .popuptext::after {
+.info .infotext::after {
     content: "";
     position: absolute;
     top: 100%;
