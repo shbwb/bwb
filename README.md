@@ -1,7 +1,7 @@
 # blog.js
 A clean blog builder
 # Language
-[](https://github.com/crqblog/blog.js/tree/main/README.zh.md)
+[中文简体](https://github.com/crqblog/blog.js/tree/main/README.zh.md)
 # Help
 * [Usage](https://github.com/crqblog/blog.js/#Usage)
 
