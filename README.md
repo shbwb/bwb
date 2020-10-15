@@ -20,7 +20,7 @@ You can change the links in the code below
 </div>
 ```
 ## Sidenav
-These code may help you.Try to change the links
+These codes may help you.Try to change the links
 ```html
 <div id="sidenav" class="sidenav">
   <a href="jsvascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
