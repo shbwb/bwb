@@ -22,3 +22,7 @@ input.addEventListener("keyup", function(event) {
         document.getElementById("enterbutton").click();
     }
 });
+function info() {
+    var info = document.getElementById("info");
+    info.classList.toggle("show");
+}
