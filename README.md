@@ -2,22 +2,15 @@
 A clean blog builder
 # Language
 [中文简体](https://github.com/crqblog/blog.js/tree/main/README.zh.md)
-# Help
-* [Usage](https://github.com/crqblog/blog.js/#Usage)
 
-* [Navbar](https://github.com/crqblog/blog.js/#Navbar)
-
-* [Sidenav](https://github.com/crqblog/blog.js/#Sidenav)
-
-* [Information](https://github.com/crqblog/blog.js/#Information)
-
-* [Page](https://github.com/crqblog/blog.js/#Page)
 # Usage
 ```html
 <link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.4/css/style.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.4/js/plugins.js"></script>
 ```
+
 You need to add these two urls to use **blog.js**
+
 ## Navbar
 You can change the links in the code below
 ```html
