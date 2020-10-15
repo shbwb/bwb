@@ -13,7 +13,7 @@ A clean blog builder
 
 * [Page](https://github.com/crqblog/blog.js/#Page)
 # Usage
-```javascript
+```html
 <link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.4/css/style.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.4/js/plugins.js"></script>
 ```
