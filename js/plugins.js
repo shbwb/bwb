@@ -15,3 +15,10 @@ function opennav() {
 function closenav() {
     document.getElementById("sidenav").style.width = "0";
 }
+var input = document.getElementById("enter");
+input.addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        document.getElementById("myBtn").click();
+    }
+});
