@@ -19,6 +19,6 @@ var input = document.getElementById("enter");
 input.addEventListener("keyup", function(event) {
     event.preventDefault();
     if (event.keyCode === 13) {
-        document.getElementById("myBtn").click();
+        document.getElementById("enterbutton").click();
     }
 });
