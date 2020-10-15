@@ -2,16 +2,7 @@
 A clean blog builder
 # 语言
 [English](https://github.com/crqblog/blog.js/)
-# 帮助
-* [开始](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#开始)
 
-* [导航栏](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#导航栏)
-
-* [侧边栏](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#侧边栏)
-
-* [消息提示](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#消息提示)
-
-* [页面](https://github.com/crqblog/blog.js/tree/main/README.zh.md/#页面)
 # 开始
 ```javascript
 <link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.4/css/style.css" rel="stylesheet">
