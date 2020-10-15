@@ -3,19 +3,9 @@ function snackbar() {
     x.className = "show";
     setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
 }
-function dropdown() {
-    document.getElementById("dropdown").classList.toggle("show");
+function opennav() {
+    document.getElementById("mySidenav").style.width = "250px";
 }
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
+function closenav() {
+    document.getElementById("mySidenav").style.width = "0";
 }
