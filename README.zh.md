@@ -71,3 +71,7 @@ A clean blog builder
     </div>
 </div>
 ```
+## 计时器
+```html
+<p onclick="timer()">Get time</p>
+```
