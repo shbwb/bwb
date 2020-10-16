@@ -1,5 +1,5 @@
 # blog.js
-A clean blog builder
+一个简洁的博客网站建设器
 # 语言
 [English](https://github.com/crqblog/blog.js/)
 
