@@ -15,7 +15,7 @@ You need to add these 3 urls to use **blog.js**
 ## Navbar
 You can change the links in the code below
 ```html
-<div class="navbar">
+<div class="navbar-default">
   <a href="http://github.com">GitHub</a>
 </div>
 ```
