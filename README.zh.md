@@ -16,7 +16,8 @@
   <a href="http://github.com">GitHub</a>
 </div>
 ```
-## 侧边栏。这段代码或许可以帮您，试着换去链接，
+## 侧边栏
+这段代码或许可以帮您，试着换去链接，
 ```html
 <div id="sidenav" class="sidenav">
   <a href="jsvascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
