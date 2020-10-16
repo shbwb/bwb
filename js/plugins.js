@@ -81,3 +81,4 @@ function timer(){
                     var str=y+"年"+M+"月"+d+"日"+" "+h+"时"+m+"分"+s+"秒"+" "+"星期"+day;
                      document.write(str);
 	 }
+// use <p onclick="timer()">Get time</p> to load
