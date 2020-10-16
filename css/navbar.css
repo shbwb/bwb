@@ -1,0 +1,19 @@
+.navbar-color-grey {
+    overflow: hidden;
+    background-color: #000;
+}
+.navbar-color-grey a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar-color-grey a.right {
+    float: right;
+}
+.navbar-color-grey a:hover {
+    background-color: #ddd;
+    color: white;
+}
