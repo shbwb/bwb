@@ -5,11 +5,12 @@ A clean blog builder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.5/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.5/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/css/style.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/css/plugins.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/js/plugins.js"></script>
 ```
 
-You need to add these two urls to use **blog.js**
+You need to add these 3 urls to use **blog.js**
 
 ## Navbar
 You can change the links in the code below
