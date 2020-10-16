@@ -13,7 +13,7 @@
 ## 导航栏
 尝试更换链接。
 ```html
-<div class="navbar">
+<div class="navbar-default">
   <a href="http://github.com">GitHub</a>
 </div>
 ```
