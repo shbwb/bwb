@@ -24,7 +24,7 @@
 .navbar-color-grey a {
     float: left;
     display: block;
-    color: #ddd;
+    color: #000;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -33,6 +33,6 @@
     float: right;
 }
 .navbar-color-grey a:hover {
-    background-color: #ddd;
+    background-color: #000;
     color: black;
 }
