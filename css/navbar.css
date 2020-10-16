@@ -19,12 +19,12 @@
 }
 .navbar-color-grey {
     overflow: hidden;
-    background-color: #000;
+    background-color: #ddd;
 }
 .navbar-color-grey a {
     float: left;
     display: block;
-    color: black;
+    color: #ddd;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -34,5 +34,5 @@
 }
 .navbar-color-grey a:hover {
     background-color: #ddd;
-    color: white;
+    color: black;
 }
