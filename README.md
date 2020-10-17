@@ -78,5 +78,5 @@ These codes may help you.Try to change the links
 
 ## Timer
 ```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.3/js/timer.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/timer.js"></script>
 ```
