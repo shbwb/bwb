@@ -12,7 +12,7 @@
 ## 导航栏
 尝试更换链接。(提示，你可以将dark替换成light)
 ```html
-<div class="navbar-default">
+<div class="navbar-theme-dark">
   <a href="http://github.com">GitHub</a>
 </div>
 ```
