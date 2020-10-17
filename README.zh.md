@@ -5,8 +5,8 @@
 
 # 开始
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.2/css/style.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.2/css/plugins.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/style.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/plugins.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/plugins.js"></script>
 ```
 你需要添加这些代码来使用 **blog.js**
