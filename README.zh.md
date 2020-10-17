@@ -11,7 +11,7 @@
 你需要添加这些代码来使用 **blog.js**
 
 ## Snackbar
-在你使用之前，要先添加这个代码进入ht文件(body标签)
+在你使用之前，要先添加这个代码进入html文件(body标签)
 `<body onload="snackbar()">`
   
 ```html
