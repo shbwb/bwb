@@ -5,9 +5,8 @@ A clean blog builder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/style.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/plugins.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/plugins.js"></script>
 ```
 
 You need to add these 3 urls to use **blog.js**
@@ -78,5 +77,5 @@ These codes may help you.Try to change the links
 
 ## Timer
 ```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/timer.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
 ```
