@@ -101,6 +101,45 @@ body {
 .header h1 {
     font-size: 40px;
 }
+/* navbars */
+.navbar-theme-dark {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar-theme-dark a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar-theme-dark a.right {
+    float: right;
+}
+.navbar-theme-dark a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.navbar-theme-light {
+    overflow: hidden;
+    background-color: #ddd;
+}
+.navbar-theme-light a {
+    float: left;
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar-theme-light a.right {
+    float: right;
+}
+.navbar-theme-light a:hover {
+    background-color: #000;
+    color: white;
+}
 .row-default {  
     display: -ms-flexbox; 
     display: flex;
