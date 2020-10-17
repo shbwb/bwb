@@ -33,9 +33,7 @@ These codes may help you.Try to change the links
 
 ## Snackbar
 Before you use add this to your html file(body tag)
-```html
-<body onload="snackbar()">
-```
+`<body onload="snackbar()">`
   
 ```html
 <div id="snackbar">Welcome<strong> to </strong>use！</div>
