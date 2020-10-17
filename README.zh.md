@@ -75,5 +75,5 @@
 ```
 ## 计时器
 ```html
-<p onclick="timer()">Get time</p>
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.3/js/timer.js"></script>
 ```
