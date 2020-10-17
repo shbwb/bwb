@@ -31,7 +31,6 @@ function info() {
     info.classList.toggle("show");
 }
 // timer
-function timer(){
         var time= new Date();//获取当前日期和对象
                 var y=time.getFullYear();//获取年份
                  var M=time.getMonth()+1;//获取月份
@@ -79,6 +78,6 @@ function timer(){
                        break;
                     }
                     var str=y+"年"+M+"月"+d+"日"+" "+h+"时"+m+"分"+s+"秒"+" "+"星期"+day;
-                     document.write(str);
-	 }
-// use <p onclick="timer()">Get time</p> to load
+                     
+	 
+
