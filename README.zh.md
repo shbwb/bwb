@@ -75,5 +75,5 @@
 ```
 ## 计时器
 ```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.3/js/timer.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/timer.js"></script>
 ```
