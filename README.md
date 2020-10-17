@@ -30,6 +30,16 @@ These codes may help you.Try to change the links
   </div>
 <span style="font-size:30px;cursor:pointer" onclick="opennav()">&#9776;</span>
 ```
+
+## Snackbar
+Before you use add this to your html file(body tag)
+```html
+<body onload="snackbar()">
+```
+  
+```html
+<div id="snackbar">Welcome<strong> to </strong>use！</div>
+```
 ## Information
 ```html
 <div class="info" style="color:grey;" onclick="info()">jyzjyzjy;
