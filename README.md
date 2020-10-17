@@ -12,9 +12,9 @@ A clean blog builder
 You need to add these 3 urls to use **blog.js**
 
 ## Navbar
-You can change the links in the code below
+You can change the links in the code below.(tip: you can change the command "dark" to "light".)
 ```html
-<div class="navbar-default">
+<div class="navbar-theme-dark">
   <a href="http://github.com">GitHub</a>
 </div>
 ```
