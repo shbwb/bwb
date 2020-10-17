@@ -5,9 +5,9 @@ A clean blog builder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/css/style.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/css/plugins.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.1.x/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.2/css/style.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.2/css/plugins.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/plugins.js"></script>
 ```
 
 You need to add these 3 urls to use **blog.js**
