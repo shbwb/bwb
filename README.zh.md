@@ -5,13 +5,12 @@
 
 # 开始
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/style.css" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/css/plugins.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/plugins.js"></script>
 ```
 你需要添加这些代码来使用 **blog.js**
 ## 导航栏
-尝试更换链接。
+尝试更换链接。(提示，你可以将dark替换成light)
 ```html
 <div class="navbar-default">
   <a href="http://github.com">GitHub</a>
@@ -75,5 +74,5 @@
 ```
 ## 计时器
 ```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.4/js/timer.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
 ```
