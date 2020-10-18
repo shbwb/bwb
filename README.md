@@ -11,6 +11,7 @@ A clean blog builder
 
 You need to add these 3 urls to use **blog.js**
 
+# Navs
 ## Navbar
 You can change the links in the code below.(tip: you can change the command "dark" to "light".)
 ```html
@@ -31,6 +32,9 @@ These codes may help you.Try to change the links
 <span style="font-size:30px;cursor:pointer" onclick="opennav()">&#9776;</span>
 ```
 
+<hr />
+
+# Features
 ## Snackbar
 Before you use add this to your html file(body tag)
 `<body onload="snackbar()">`
@@ -44,6 +48,15 @@ Before you use add this to your html file(body tag)
   <span class="infotext" id="info">ZJYZJYZJY!</span>
 </div>
 ```
+
+## Timer
+```html
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
+```
+
+<hr />
+
+# Design
 ## Page
 **row**
 ```html
@@ -81,9 +94,4 @@ Before you use add this to your html file(body tag)
       <p>rrrr<strong>tt</strong>a<strong>vvv</strong><p>
     </div>
 </div>
-```
-
-## Timer
-```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
 ```
