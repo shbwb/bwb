@@ -36,7 +36,7 @@ These codes may help you.Try to change the links
 
 # Features
 ## Snackbar
-Before you use add this to your html file(body tag)
+Before you use,add this to your html file(body tag)
 `<body onload="snackbar()">`
   
 ```html
