@@ -10,13 +10,8 @@
 ```
 你需要添加这些代码来使用 **blog.js**
 
-## Snackbar
-在你使用之前，要先添加这个代码进入html文件(body标签)
-`<body onload="snackbar()">`
-  
-```html
-<div id="snackbar">Welcome<strong> to </strong>use！</div>
-```
+## 导航栏
+
 ## 导航栏
 尝试更换链接。(提示，你可以将dark替换成light)
 ```html
@@ -36,12 +31,31 @@
   </div>
 <span style="font-size:30px;cursor:pointer" onclick="opennav()">&#9776;</span>
 ```
+
+<hr />
+
+# 功能
+## Snackbar
+在你使用之前，要先添加这个代码进入html文件(body标签)
+`<body onload="snackbar()">`
+  
+```html
+<div id="snackbar">Welcome<strong> to </strong>use！</div>
+```
 ## 消息提示
 ```html
 <div class="info" style="color:grey;" onclick="info()">jyzjyzjy;
   <span class="infotext" id="info">ZJYZJYZJY!</span>
 </div>
 ```
+## 计时器
+```html
+<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
+```
+
+<hr />
+
+# 设计
 ## 页面
 **row**
 ```html
@@ -79,8 +93,4 @@
       <p>rrrr<strong>tt</strong>a<strong>vvv</strong><p>
     </div>
 </div>
-```
-## 计时器
-```html
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
 ```
