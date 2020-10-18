@@ -9,7 +9,7 @@ A clean blog builder
 <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/plugins.js"></script>
 ```
 
-You need to add these 3 urls to use **blog.js**
+You need to add these 2 urls to use **blog.js**
 
 # Navs
 ## Navbar
