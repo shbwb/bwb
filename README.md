@@ -35,6 +35,11 @@ These codes may help you.Try to change the links
 <hr />
 
 # Features
+## Back Button
+```html
+<button  onclick="goback()">Back</button>
+```
+Change the key word "goback" to "gofoward"
 ## Snackbar
 Before you use,add this to your html file(body tag)
 `<body onload="snackbar()">`
