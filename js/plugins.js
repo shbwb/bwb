@@ -30,3 +30,7 @@ function info() {
     var info = document.getElementById("info");
     info.classList.toggle("show");
 }
+// history
+function goback(){
+	window.history.back()
+}
