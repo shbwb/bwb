@@ -35,6 +35,11 @@
 <hr />
 
 # 功能
+## 返回按钮
+```html
+<button  onclick="goback()">Back</button>
+```
+尝试更换关键词 "goback" 至 "gofoward"
 ## Snackbar
 在你使用之前，要先添加这个代码进入html文件(body标签)
 `<body onload="snackbar()">`
