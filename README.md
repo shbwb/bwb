@@ -83,3 +83,20 @@ Before you use,add this to your html file(body tag)
   ...
 </div>
 ```
+
+
+**e.g.**
+
+```html
+<div class="container">
+      <h2>About us:</h2>
+    <p>Author:</p></br>
+<p>The project was build by Chen Ruiqi(crq)<p>
+      <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
+   <div class="inbox">
+      <h2>Friends</h2>
+      <h5>ZJY:</h5>
+      <div class="fakeimg" style="height:200px;">no photo</div>
+    </div>
+  </div>
+```
