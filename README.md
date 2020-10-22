@@ -65,38 +65,21 @@ Before you use,add this to your html file(body tag)
 ## Page
 **row**
 ```html
-<div class="row-default">
+<div class="row">
   ...
 </div>
 ```
 
-**side**
+**container**
 ```html
-<div class="side-default">
+<div class="container">
   ...
 </div>
 ```
 
-**main**
+**inbox**
 ```html
-<div class="main-default">
+<div class="inbox">
   ...
-</div>
-```
-
-**e.g.**
-```html
-<div class="row-default">
-  <div class="side-default">
-      <h2>xxxx</h2>
-      <p>yyyyyyyy</p>
-<p>dddddddd<strong>zzz</strong><p>
-  </div>
-  <div class="main-default">
-      <h2>Friends</h2>
-      <h5>yyy:</h5>
-      <div class="fakeimg" style="height:200px;">no photo</div>
-      <p>rrrr<strong>tt</strong>a<strong>vvv</strong><p>
-    </div>
 </div>
 ```
