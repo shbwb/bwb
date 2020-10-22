@@ -94,12 +94,18 @@ body {
 }
 .header {
     padding: 80px;
-    text-align: center;
     background: #1abc9c;
     color: white;
 }
 .header h1 {
     font-size: 40px;
+}
+.header a {
+    text-decoration: none;
+    color: white;
+}
+.text-center {
+    text-align: center;
 }
 /* navbars */
 .navbar-theme-dark {
