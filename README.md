@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.8/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.8/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.x/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.x/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb.js**
@@ -98,3 +98,10 @@ Before you use,add this to your html file(body tag)
     </div>
   </div>
 ```
+## Bar
+```html
+<div class="bar bar-warning">
+...
+</div>
+```
+You can change the "warning" command to "done" or "information"
