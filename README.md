@@ -1,4 +1,4 @@
-# Bwb.js
+# Bwb
 A **b**asic **w**ebpage **b**uilder
 
 # Usage
