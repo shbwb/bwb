@@ -1,10 +1,10 @@
-# blog.js
+# Bwb.js
 A clean blog builder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.8/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.8/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.8/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.8/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **blog.js**
