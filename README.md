@@ -105,3 +105,6 @@ Before you use,add this to your html file(body tag)
 </div>
 ```
 You can change the "warning" command to "done" or "information"
+<hr />
+# License
+MIT
