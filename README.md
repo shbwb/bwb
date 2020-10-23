@@ -7,7 +7,7 @@ A **b**asic **w**ebpage **b**uilder
 <script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.8/js/plugins.js"></script>
 ```
 
-You need to add these 2 urls to use **blog.js**
+You need to add these 2 urls to use **bwb.js**
 
 # Navs
 ## Navbar
