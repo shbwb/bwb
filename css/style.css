@@ -1,6 +1,22 @@
 * {
     box-sizing: border-box;
 }
+.bar {
+	padding:10px 40px; 
+	border-radius:15px;
+}
+.bar-warning {
+    background:#F78181;
+    color:white;
+}
+.bar-information {
+    background:#81BEF7;
+    color:white;
+}
+.bar-done {
+    background:#82FA58;
+    color: #F2F2F2;
+}
 .info {
     position: relative;
     display: inline-block;
