@@ -1,5 +1,5 @@
 # Bwb.js
-A clean blog builder
+A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
