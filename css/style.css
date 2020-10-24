@@ -204,8 +204,8 @@ body {
     padding: 20px;
 }
 .readbox {   
-    -ms-flex: 70%; 
-    flex: 70%;
+    -ms-flex: 90%; 
+    flex: 90%;
     background-color: #fffff;
     padding: 30px;
 }
