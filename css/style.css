@@ -206,7 +206,7 @@ body {
 .readbox {   
     -ms-flex: 70%; 
     flex: 70%;
-    background-color: #f1f1f1;
+    background-color: #fffff;
     padding: 20px;
 }
 .fakeimg {
