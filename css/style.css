@@ -203,6 +203,12 @@ body {
     background-color: #f1f1f1;
     padding: 20px;
 }
+.readbox {   
+    -ms-flex: 70%; 
+    flex: 70%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
 .fakeimg {
     background-color: #aaa;
     width: 100%;
