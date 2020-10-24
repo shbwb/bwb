@@ -24,9 +24,6 @@ input[type=default] {
   transition: 0.5s;
   outline: none;
 }
-input[type=default]:focus {
-  border: 3px solid #555;
-}
 .bar {
 	padding:10px 40px; 
 	border-radius:15px;
