@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.x/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.2.x/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.3.0/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/crqblog/bwb.js@v.1.3.0/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb**
@@ -33,6 +33,11 @@ These codes may help you.Try to change the links
 <hr />
 
 # Features
+## Type box
+The css box
+```html
+<input type="text" placeholder=""xxx">
+```
 ## Back Button
 ```html
 <button  onclick="goback()">Back</button>
