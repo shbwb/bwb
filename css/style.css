@@ -203,16 +203,11 @@ body {
     background-color: #f1f1f1;
     padding: 20px;
 }
-.readbox {   
-    -ms-flex: 90%; 
-    flex: 90%;
+.readbox {
     background-color: #fffff;
-    padding: 30px;
-}
-.fakeimg {
-    background-color: #aaa;
     width: 100%;
     padding: 20px;
+    color: black;
 }
 .footer-default {
     padding: 20px;
