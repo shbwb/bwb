@@ -1,2 +1,1 @@
-![Support me](https://github.com/crqblog/bwb/
-test/wechatpay.JPG)
+![image](https://github.com/crqblog/bwb/blob/test/wechatpay.JPG/)
