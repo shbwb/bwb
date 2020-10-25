@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+a {
+  text-decoration:none;
+}
 input[type=focus] {
   width: 100%;
   padding: 12px 20px;
