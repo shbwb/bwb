@@ -1,4 +1,4 @@
-# Bwb
+# Basic webpage builder
 A **b**asic **w**ebpage **b**uilder
 
 # Usage
