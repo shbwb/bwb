@@ -124,4 +124,4 @@ You can change the "warning" command to "done" or "information"
 
 <hr />
 
-# [Support](https://crq.js.org/bwb/pages/support/)
+# [Support](https://bwb.js.org/pages/support/)
