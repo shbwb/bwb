@@ -122,4 +122,6 @@ You can change the "warning" command to "done" or "information"
 # License
 [MIT](https://github.com/crqblog/bwb/blob/main/LICENSE)
 
+<hr />
+
 # [Support](https://crq.js.org/bwb/pages/support/)
