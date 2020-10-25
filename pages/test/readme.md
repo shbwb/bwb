@@ -1,1 +1,1 @@
-# [Support me](https://github.com/crqblog/bwb/blob/test/wechatpay.JPG/)
+# [Support me](https://crq.js.org/bwb/test/wechatpay.JPG/)
