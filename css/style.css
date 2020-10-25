@@ -197,6 +197,12 @@ body {
     background-color: white;
     padding: 20px;
 }
+.readbox {
+    -ms-flex: 30%; 
+    flex: 30%;
+    background-color: white;
+    padding: 20px;
+}
 .inbox {   
     -ms-flex: 70%; 
     flex: 70%;
