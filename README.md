@@ -120,4 +120,4 @@ You can change the "warning" command to "done" or "information"
 <hr />
 
 # License
-MIT
+[MIT](https://github.com/crqblog/bwb/blob/main/LICENSE)
