@@ -36,7 +36,7 @@ These codes may help you.Try to change the links
 ## Type box
 The css box(you can change "focus" to "default")
 ```html
-<input type="focus" placeholder=""xxx">
+<input type="focus" placeholder="xxx">
 ```
 ## Back Button
 ```html
