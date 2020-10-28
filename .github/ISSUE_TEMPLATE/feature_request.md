@@ -7,7 +7,7 @@ assignees: qbsz
 
 ---
 
-<!— Please descript your problem(s) —>
+<!—- Please descript your problem(s) -->
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**
