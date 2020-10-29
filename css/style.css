@@ -188,6 +188,11 @@ body {
     background-color: #000;
     color: white;
 }
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
 .row {  
     display: -ms-flexbox; 
     display: flex;
