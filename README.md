@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.1/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.1/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.2/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.2/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb**
@@ -65,6 +65,13 @@ Before you use,add this to your html file(body tag)
 <hr />
 
 # Design
+## Sticky
+
+You can add this code to everywhere.
+```html
+<div class="sticky">xxx</div>
+```
+
 ## Page
 **row**
 ```html
