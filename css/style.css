@@ -162,6 +162,9 @@ body {
     padding: 14px 20px;
     text-decoration: none;
 }
+.navbar-theme-dark p {
+    color: white;
+}
 .navbar-theme-dark a.right {
     float: right;
 }
