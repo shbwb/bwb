@@ -62,6 +62,12 @@ Before you use,add this to your html file(body tag)
 <script src="https://cdn.jsdelivr.net/gh/crqblog/blog.js@v.1.2.5/js/timer.js"></script>
 ```
 
+## Mask
+The mask
+```html
+<span class="mask">xxx</span>
+```
+
 <hr />
 
 # Design
