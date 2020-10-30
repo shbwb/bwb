@@ -4,6 +4,14 @@
 a {
   text-decoration:none;
 }
+.mask {
+    background-color: #252525;
+    color: #252525;
+    transition: color 1.5s;
+}
+.mask:hover {
+    color: #ffffff;
+}
 input[type=focus] {
   width: 100%;
   padding: 12px 20px;
