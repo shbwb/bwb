@@ -86,6 +86,7 @@ You can add this code to everywhere.
 </div>
 ```
 you should add "text-center".
+
 **row**
 ```html
 <div class="row">
