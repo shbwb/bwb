@@ -97,7 +97,7 @@ input[focus=off] {
     from {opacity: 0;}
     to {opacity:1 ;}
 }
-.snackbar {
+#snackbar {
     visibility: hidden;
     min-width: 250px;
     margin-left: -125px;
@@ -112,7 +112,7 @@ input[focus=off] {
     bottom: 30px;
     font-size: 17px;
 }
-.snackbar.show {
+#snackbar.show {
     visibility: visible;
     -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
     animation: fadein 0.5s, fadeout 0.5s 2.5s;
