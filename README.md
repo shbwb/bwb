@@ -52,7 +52,7 @@ Before you use,add this to your html file(body tag)
 ```
 ## Information
 ```html
-<div class="info" style="color:grey;" onclick="info()">Front;
+<div class="info" style="color:grey;" onclick="info()">Front
   <span class="infotext" id="info">Back!</span>
 </div>
 ```
