@@ -12,7 +12,7 @@ a {
 .mask:hover {
     color: #ffffff;
 }
-input[type=focus] {
+input[focus=on] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -22,10 +22,10 @@ input[type=focus] {
   transition: 0.5s;
   outline: none;
 }
-input[type=focus]:focus {
+input[focus=on]:focus {
   border: 3px solid #555;
 }
-input[type=default] {
+input[focus=off] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -97,7 +97,7 @@ input[type=default] {
     from {opacity: 0;}
     to {opacity:1 ;}
 }
-#snackbar {
+.snackbar {
     visibility: hidden;
     min-width: 250px;
     margin-left: -125px;
@@ -112,8 +112,7 @@ input[type=default] {
     bottom: 30px;
     font-size: 17px;
 }
-
-#snackbar.show {
+.snackbar.show {
     visibility: visible;
     -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
     animation: fadein 0.5s, fadeout 0.5s 2.5s;
