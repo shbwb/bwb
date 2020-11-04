@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.4/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.4/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.5/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.4.5/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb**
@@ -34,9 +34,9 @@ These codes may help you.Try to change the links
 
 # Features
 ## Type box
-The css box(you can change "focus" to "default")
+The css box(you can change "on" to "off")
 ```html
-<input type="focus" placeholder="xxx">
+<input focus="on" placeholder="xxx">
 ```
 ## Back Button
 ```html
@@ -48,7 +48,7 @@ Before you use,add this to your html file(body tag)
 `<body onload="snackbar()">`
   
 ```html
-<div id="snackbar">Welcome<strong> to </strong>use！</div>
+<div class="snackbar">Welcome<strong> to </strong>use！</div>
 ```
 ## Information
 ```html
