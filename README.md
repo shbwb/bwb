@@ -21,7 +21,7 @@ You can change the links in the code below.(tip: you can change the command "dar
 These codes may help you.Try to change the links
 ```html
 <div id="sidenav" class="sidenav">
-  <a href="jsvascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
+  <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
   <a href="#">About</a>
   <a href="#">Services</a>
   <a href="#">Clients</a>
