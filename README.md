@@ -79,6 +79,13 @@ You can add this code to everywhere.
 ```
 
 ## Page
+**header**
+```html
+<div class="header text-center">
+  ...
+</div>
+```
+you should add "text-center".
 **row**
 ```html
 <div class="row">
