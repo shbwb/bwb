@@ -2,11 +2,18 @@
     box-sizing: border-box;
 }
 a {
-  text-decoration:none;
-  color:#2E64FE;
+  background-color: transparent;
 }
+a:active,
 a:hover {
-	color:#0040FF;
+  outline: 0;
+}
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
 }
 small {
   color:#D8D8D8;
