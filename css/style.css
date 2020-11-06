@@ -8,6 +8,8 @@ a {
 a:hover {
 	color:#0040FF;
 }
+.small {
+  color:#D8D8D8;
 .mask {
     background-color: #252525;
     color: #252525;
