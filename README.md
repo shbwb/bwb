@@ -78,6 +78,11 @@ You can add this code to everywhere.
 <div class="sticky">xxx</div>
 ```
 
+## Small
+```html
+<small>xxx</small>
+```
+
 ## Page
 **header**
 ```html
