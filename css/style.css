@@ -3,6 +3,10 @@
 }
 a {
   text-decoration:none;
+  color:#2E64FE;
+}
+a:hover {
+	color:#0040FF;
 }
 .mask {
     background-color: #252525;
