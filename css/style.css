@@ -11,13 +11,9 @@ a:hover {
 small {
   color:#D8D8D8;
 }
-.mask {
-    background-color: #252525;
-    color: #252525;
-    transition: color 1.5s;
-}
-.mask:hover {
-    color: #ffffff;
+mark {
+  color: #000;
+  background: #FFBF00;
 }
 input[focus=on] {
   width: 100%;
@@ -41,6 +37,14 @@ input[focus=off] {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   outline: none;
+}
+.mask {
+    background-color: #252525;
+    color: #252525;
+    transition: color 1.5s;
+}
+.mask:hover {
+    color: #ffffff;
 }
 .bar {
 	padding:10px 40px; 
