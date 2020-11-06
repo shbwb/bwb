@@ -8,8 +8,15 @@ a {
 a:hover {
 	color:#0040FF;
 }
-.small {
+small {
   color:#D8D8D8;
+}
+hr {
+  height: 0;
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
 .mask {
     background-color: #252525;
     color: #252525;
