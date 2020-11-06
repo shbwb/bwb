@@ -96,14 +96,6 @@ input[focus=off] {
     -webkit-animation: fadeIn 1s;
     animation: fadeIn 1s;
 }
-@-webkit-keyframes fadeIn {
-    from {opacity: 0;} 
-    to {opacity: 1;}
-}
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity:1 ;}
-}
 #snackbar {
     visibility: hidden;
     min-width: 250px;
@@ -240,23 +232,6 @@ body {
     background: #E6E6E6;
     color: grey
 }
-@media screen and (max-width: 700px) {
-    .row {   
-        flex-direction: column;
-    }
-}
-@media screen and (max-width: 400px) {
-    .navbar-theme-dark a {
-        float: none;
-        width: 100%;
-    }
-}
-@media screen and (max-width: 400px) {
-    .navbar-theme-light a {
-        float: none;
-        width: 100%;
-    }
-}
 .sidenav {
     height: 100%;
     width: 0;
@@ -290,7 +265,31 @@ body {
     font-size: 36px;
     margin-left: 50px;
 }
-
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+@media screen and (max-width: 700px) {
+    .row {   
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 400px) {
+    .navbar-theme-dark a {
+        float: none;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .navbar-theme-light a {
+        float: none;
+        width: 100%;
+    }
+}
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
