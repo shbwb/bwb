@@ -50,12 +50,6 @@ Before you use,add this to your html file(body tag)
 ```html
 <div id="snackbar">Welcome<strong> to </strong>use！</div>
 ```
-## Information
-```html
-<div class="info" style="color:grey;" onclick="info()">Front
-  <span class="infotext" id="info">Back!</span>
-</div>
-```
 
 ## Timer
 ```html
