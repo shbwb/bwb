@@ -8,6 +8,23 @@ a {
 a:hover {
 	color:#0040FF;
 }
+.button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.smooth {border-radius: 2px;}
+.smooth {border-radius: 4px;}
+.smooth {border-radius: 6px;}
+.smooth {border-radius: 8px;}
+.smooth {border-radius: 10px;}
+.smooth {border-radius: 12px;}
+.green {background-color: #4CAF50;}
 small {
   color:#D8D8D8;
 }
