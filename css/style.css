@@ -62,44 +62,6 @@ input[focus=off] {
     background:#04B431;
     color: white;
 }
-.info {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-.info .infotext {
-    visibility: hidden;
-    width: 160px;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 8px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -80px;
-}
-.info .infotext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
-}
-.info .show {
-    visibility: visible;
-    -webkit-animation: fadeIn 1s;
-    animation: fadeIn 1s;
-}
 #snackbar {
     visibility: hidden;
     min-width: 250px;
@@ -268,14 +230,6 @@ body {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
-}
-@-webkit-keyframes fadeIn {
-    from {opacity: 0;} 
-    to {opacity: 1;}
-}
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity:1 ;}
 }
 @media screen and (max-width: 700px) {
     .row {   
