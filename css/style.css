@@ -18,16 +18,21 @@ a:hover {
     margin: 4px 2px;
     cursor: pointer;
 }
-.smooth {border-radius: 2px;}
-.smooth {border-radius: 4px;}
-.smooth {border-radius: 6px;}
-.smooth {border-radius: 8px;}
-.smooth {border-radius: 10px;}
-.smooth {border-radius: 12px;}
+.smooth1 {border-radius: 2px;}
+.smooth2 {border-radius: 4px;}
+.smooth3 {border-radius: 6px;}
+.smooth4 {border-radius: 8px;}
+.smooth5 {border-radius: 10px;}
+.smooth6 {border-radius: 12px;}
+.smooth7 {border-radius: 14px;}
+.smooth8 {border-radius: 16px;}
+.smooth9 {border-radius: 18px;}
+.smooth10 {border-radius: 20px;}
 .green {background-color: #4CAF50; color: white;}
 .grey {background-color: #f1f1f1;}
 .blue {background-color: #81BEF7; color: white;}
 .black {background-color: #000; color: white;}
+.red {background-color: #F78181; color: white;}
 small {
   color:#D8D8D8;
 }
@@ -218,39 +223,6 @@ body {
     background: #E6E6E6;
     color: grey
 }
-.sidenav {
-    height: 100%;
-    width: 0;
-    position: fixed;
-    z-index: 10000;
-    top: 0;
-    left: 0;
-    background-color: #111;
-    overflow-x: hidden;
-    transition: 0.5s;
-    padding-top: 60px;
-}
-
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
-    transition: 0.3s;
-}
-
-.sidenav a:hover, .offcanvas a:focus{
-    color: #f1f1f1;
-}
-
-.sidenav .closebtn {
-    position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
-}
 @media screen and (max-width: 700px) {
     .row {   
         flex-direction: column;
@@ -267,8 +239,4 @@ body {
         float: none;
         width: 100%;
     }
-}
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
 }
