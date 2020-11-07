@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.2/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.2/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.3/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.1.3/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb**
@@ -16,18 +16,6 @@ You can change the links in the code below.(tip: you can change the command "dar
 <div class="navbar-theme-dark">
   <a href="http://github.com">GitHub</a>
 </div>
-```
-## Sidenav
-These codes may help you.Try to change the links
-```html
-<div id="sidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closenav()">&times;</a>
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-  </div>
-<span style="font-size:30px;cursor:pointer" onclick="opennav()">&#9776;</span>
 ```
 
 <hr />
