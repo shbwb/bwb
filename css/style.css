@@ -24,7 +24,10 @@ a:hover {
 .smooth {border-radius: 8px;}
 .smooth {border-radius: 10px;}
 .smooth {border-radius: 12px;}
-.green {background-color: #4CAF50;}
+.green {background-color: #4CAF50; color: white;}
+.grey {background-color: #f1f1f1;}
+.blue {background-color: #81BEF7; color: white;}
+.black {background-color: #000; color: white;}
 small {
   color:#D8D8D8;
 }
