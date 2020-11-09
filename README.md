@@ -98,7 +98,7 @@ you should add "text-center".
 **readbox**
 highlight box
 ```html
-<div class="inbox">
+<div class="readbox">
   ...
 </div>
 ```
