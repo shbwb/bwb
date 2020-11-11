@@ -231,7 +231,7 @@ body {
     color: grey
 }
 @media screen and (max-width: 700px) {
-    .row {   
+    .inbox {   
         flex-direction: column;
     }
 }
