@@ -70,15 +70,15 @@ input[focus=off] {
   transition: 0.5s;
   outline: none;
 }
-.mask {
+mask {
     background-color: #252525;
     color: #252525;
     transition: color 1.5s;
 }
-.mask:hover {
+mask:hover {
     color: #ffffff;
 }
-.bar {
+bar {
 	padding:10px 40px; 
 	border-radius:15px;
 }
@@ -138,15 +138,15 @@ body {
     font-family: Arial;
     margin: 0;
 }
-.header {
+header {
     padding: 30px;
     background: #1abc9c;
     color: white;
 }
-.header h1 {
+header h1 {
     font-size: 40px;
 }
-.header a {
+header a {
     text-decoration: none;
     color: white;
 }
@@ -154,11 +154,11 @@ body {
     text-align: center;
 }
 /* navbars */
-.navbar-theme-dark {
+navbar-theme-dark {
     overflow: hidden;
     background-color: #333;
 }
-.navbar-theme-dark a {
+navbar-theme-dark a {
     float: left;
     display: block;
     color: white;
@@ -166,21 +166,21 @@ body {
     padding: 14px 20px;
     text-decoration: none;
 }
-.navbar-theme-dark p {
+navbar-theme-dark p {
     color: white;
 }
-.navbar-theme-dark a.right {
+navbar-theme-dark a.right {
     float: right;
 }
-.navbar-theme-dark a:hover {
+navbar-theme-dark a:hover {
     background-color: #ddd;
     color: black;
 }
-.navbar-theme-light {
+navbar-theme-light {
     overflow: hidden;
     background-color: #ddd;
 }
-.navbar-theme-light a {
+navbar-theme-light a {
     float: left;
     display: block;
     color: #000;
@@ -188,10 +188,10 @@ body {
     padding: 14px 20px;
     text-decoration: none;
 }
-.navbar-theme-light a.right {
+navbar-theme-light a.right {
     float: right;
 }
-.navbar-theme-light a:hover {
+navbar-theme-light a:hover {
     background-color: #000;
     color: white;
 }
@@ -200,31 +200,31 @@ body {
   position: sticky;
   top: 0;
 }
-.row {  
+row {  
     display: -ms-flexbox; 
     display: flex;
     -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
 }
-.container {
+container {
     -ms-flex: 30%; 
     flex: 30%;
     background-color: white;
     padding: 20px;
 }
-.readbox {
+readbox {
     -ms-flex: 30%; 
     flex: 30%;
     background-color: white;
     padding: 20px;
 }
-.inbox {   
+inbox {   
     -ms-flex: 70%; 
     flex: 70%;
     background-color: #f1f1f1;
     padding: 20px;
 }
-.footer-default {
+footer-default {
     padding: 20px;
     text-align: center;
     background: #E6E6E6;
