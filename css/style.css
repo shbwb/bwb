@@ -126,8 +126,6 @@ input[focus=off] {
   font-family: arial;
 }
 .dropbtn {
-    background-color: #4CAF50;
-    color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -157,9 +155,6 @@ input[focus=off] {
 
 .dropdown:hover .dropdown-content {
     display: block;
-}
-.dropdown:hover .dropbtn {
-    background-color: #3e8e41;
 }
 .loader {
   border: 16px solid #f3f3f3;
