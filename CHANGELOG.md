@@ -1,3 +1,6 @@
+### V.2.1
+* Change 4 html default tags.
+
 ### V.1.4.4
 * The first formal version. :rocket:
 * Creat issue template and PR template.
