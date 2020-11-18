@@ -4,6 +4,7 @@
 .right {
 	position:absolute;
 	right:10px;
+	z-index:1000;
 }
 div {  
          word-wrap:break-word; 
