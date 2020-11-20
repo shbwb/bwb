@@ -27,6 +27,16 @@ code {
   color: #000;
   word-break: break-word;
 }
+code {
+  font-size: 87.5%;
+  color: #FE2E9A;
+  word-break: break-word;
+}
+xmp {
+  font-size: 87.5%;
+  color: #FE2E9A;
+  word-break: break-word;
+}
 a > code {
   color: inherit;
 }
