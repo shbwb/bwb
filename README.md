@@ -3,8 +3,8 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.2.5/css/style.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.2.5/js/plugins.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.2.7/css/style.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.2.7/js/plugins.js"></script>
 ```
 
 You need to add these 2 urls to use **bwb**
