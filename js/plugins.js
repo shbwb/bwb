@@ -18,10 +18,19 @@ input.addEventListener("keyup", function(event) {
         document.getElementById("enterbutton").click();
     }
 });
+
+/* ---------------------------------------------------------------------*/
+/* browser */
+/* ---------------------------------------------------------------------*/
+
 // history
 function goback(){
 	window.history.back()
 }
 function goforward(){
 	window.history.forward()
+}
+// reload
+function reload(){
+  location.reload()
 }
