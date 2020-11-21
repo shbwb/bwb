@@ -18,7 +18,10 @@ input.addEventListener("keyup", function(event) {
         document.getElementById("enterbutton").click();
     }
 });
-
+// timer (if a user enter the code <button onclick="timer(time=3000,text='hello')">Front button</button> the box will show after 3 seconds.
+function timer() {
+    setTimeout(function(){ alert(text); }, time);
+}
 /* ---------------------------------------------------------------------*/
 /* browser */
 /* ---------------------------------------------------------------------*/
