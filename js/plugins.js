@@ -1,6 +1,6 @@
 /* 
-plugins.js: copyright (c) crq(crqblog)(crq.js.org)2020
-The script was written by runoob.com and crqblog
+plugins.js: copyright (c) crq(shbwb)(crq.js.org,bwb.js.org)2020
+The script was written by qbsz(shbwb).
 If you want to copy the code,please tell us.
 Welcome to use
 */
