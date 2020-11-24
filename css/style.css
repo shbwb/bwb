@@ -75,7 +75,21 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 500;
   line-height: 1.2;
 }
-
+@keyframes typing {
+    from { width: 0}
+}
+@keyframes blink-caret {
+    50% { border-color: transparent; }
+}
+.type-en {
+    font: 200% monospace;
+    border-right: .08em solid;
+    width: 28ch;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 10s steps(28, end),
+               blink-caret .5s step-end infinite alternate;
+}
 h1, .h1 {
   font-size: 2.5rem;
 }
