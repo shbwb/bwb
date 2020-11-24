@@ -1,3 +1,9 @@
+/*!
+ * BWB v3.2.0 (http://bwb.js.org)
+ * Copyright 2020 bwb.js.org
+ * Licensed under MIT (https://github.com/shbwb/bwb/blob/main/LICENSE)
+ */
+/*! style.css | MIT License */
 * {
     box-sizing: border-box;
 }
@@ -75,38 +81,23 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 500;
   line-height: 1.2;
 }
-@keyframes typing {
-    from { width: 0}
-}
-@keyframes blink-caret {
-    50% { border-color: transparent; }
-}
-.type-en {
-    font: 200% monospace;
-    border-right: .08em solid;
-    width: 28ch;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: typing 10s steps(28, end),
-               blink-caret .5s step-end infinite alternate;
-}
-.type-zh {
-         width: 15em;
-         white-space: nowrap;
-         border-right: 2px solid transparent;
-         animation: typing 3.5s steps(15, end), blink-caret .75s step-end infinite;
-         overflow: hidden;
-	font: 200% monospace;
-}
-        /* 打印效果 */
-@keyframes typing {
-         from { width: 0; }
-         to { width: 15em; }
-}
-        /* 光标闪啊闪 */
-@keyframes blink-caret {
-         from, to { box-shadow: 1px 0 0 0 transparent; }
-         50% { box-shadow: 1px 0 0 0; }
+.typing {
+            width: 18.5em; height: 1.25em;
+            border-right: 1px solid transparent;
+            animation: typing 3.5s steps(37, end), blink-caret .75s step-end infinite;
+            font-family: Consolas, Monaco;
+            word-break: break-all;
+            overflow: hidden;
+        }
+        /* Show */
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 18.5em; }
+        }
+        /* caret */
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: currentColor; }
 }
 h1, .h1 {
   font-size: 2.5rem;
