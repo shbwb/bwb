@@ -90,6 +90,24 @@ h1, h2, h3, h4, h5, h6,
     animation: typing 10s steps(28, end),
                blink-caret .5s step-end infinite alternate;
 }
+.type-zh {
+         width: 15em;
+         white-space: nowrap;
+         border-right: 2px solid transparent;
+         animation: typing 3.5s steps(15, end), blink-caret .75s step-end infinite;
+         overflow: hidden;
+	font: 200% monospace;
+}
+        /* 打印效果 */
+@keyframes typing {
+         from { width: 0; }
+         to { width: 15em; }
+}
+        /* 光标闪啊闪 */
+@keyframes blink-caret {
+         from, to { box-shadow: 1px 0 0 0 transparent; }
+         50% { box-shadow: 1px 0 0 0; }
+}
 h1, .h1 {
   font-size: 2.5rem;
 }
