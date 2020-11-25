@@ -17,10 +17,11 @@ div {
 }
 a {
   text-decoration:none;
-  color:#2E64FE;
+  color:#4da3ff;
 }
 a:hover {
-	color:#0040FF;
+  color: #004da1;
+  text-decoration: underline;
 }
 hr {
   margin-top: 1rem;
