@@ -165,7 +165,8 @@ img {
 .grey {
 	background-color: #f1f1f1;
 }
-.blue { background-color: #81BEF7;
+.blue { 
+	background-color: #81BEF7;
         color: white;
 }
 .black {
