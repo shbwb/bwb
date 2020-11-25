@@ -177,6 +177,26 @@ img {
 	background-color: #F78181;
 	color: white;
 }
+.ocean {
+        background: #1abc9c;
+        color: white;
+}
+.purple {
+        background: #8000FF;
+        color: white;
+}
+.yellow {
+        background: #FFFF00;
+        color: black;
+}
+.pink {
+        background: #F781BE;
+        color: white;
+}
+.rice {
+        background: #FBF5EF;
+        color: black;
+}
 small {
   color:#D8D8D8;
 }
@@ -348,15 +368,9 @@ body {
 }
 .header {
     padding: 30px;
-    background: #1abc9c;
-    color: white;
 }
 .header h1 {
     font-size: 40px;
-}
-.header a {
-    text-decoration: none;
-    color: white;
 }
 .text-center {
     text-align: center;
