@@ -81,24 +81,6 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 500;
   line-height: 1.2;
 }
-.typing {
-            width: 18.5em; height: 1.25em;
-            border-right: 1px solid transparent;
-            animation: typing 3.5s steps(37, end), blink-caret .75s step-end infinite;
-            font-family: Consolas, Monaco;
-            word-break: break-all;
-            overflow: hidden;
-        }
-        /* Show */
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 18.5em; }
-        }
-        /* caret */
-        @keyframes blink-caret {
-            from, to { border-color: transparent; }
-            50% { border-color: currentColor; }
-}
 h1, .h1 {
   font-size: 2.5rem;
 }
