@@ -54,6 +54,15 @@ pre {
   font-size: 87.5%;
   color: #212529;
 }
+address {
+  margin-bottom: 1rem;
+  line-height: inherit;
+}
+b,
+strong {
+  font-weight: bolder;
+  color: #1C1C1C;
+}
 .pagination a.right {
     position:absolute; 
     right:0px;
@@ -103,6 +112,10 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
 }
 .button {
     border: none;
@@ -393,12 +406,15 @@ body {
   position: sticky;
   top: 0;
 }
-.row {  
-    display: -ms-flexbox; 
-    display: flex;
-    -ms-flex-wrap: wrap; 
-    flex-wrap: wrap;
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -16px;
+  margin-left: -16px;
 }
+
 .container {
     -ms-flex: 30%; 
     flex: 30%;
