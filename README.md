@@ -9,7 +9,7 @@ A **b**asic **w**ebpage **b**uilder
 
 You need to add these 2 urls to use **bwb**
 
-# [Start :rocket:](https://bwb-docs.js.org) 
+# [Start](https://bwb-docs.js.org) 
 
 The document has not been finished yet
 
