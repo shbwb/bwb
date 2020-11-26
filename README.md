@@ -9,15 +9,13 @@ A **b**asic **w**ebpage **b**uilder
 
 You need to add these 2 urls to use **bwb**
 
-[Start :rocket:](https://bwb-docs.js.org) The document has not been finished yet
+# [Start :rocket:](https://bwb-docs.js.org) 
+
+The document has not been finished yet
 
 <hr />
 
 # License
 [MIT](https://github.com/crqblog/bwb/blob/main/LICENSE)
 
-<hr />
-
 # [Support](https://bwb.js.org/pages/support/)
-
-<!-- The first backup branch -->
