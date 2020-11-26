@@ -15,8 +15,9 @@
 div {  
          word-wrap:break-word; 
 }
-blockquote {
-	
+noscript {
+  color: red;
+}
 sub,
 sup {
   position: relative;
