@@ -489,7 +489,6 @@ body {
     background: white;
     color: black;
     padding: 15px;
-    width: 80%;
     height: 100px;
 }
 .inbox {   
@@ -508,7 +507,6 @@ body {
     background: #f1f1f1;
     color: black;
     padding: 15px;
-    width: 80%;
     height: 100px;
 }
 .scroll {
