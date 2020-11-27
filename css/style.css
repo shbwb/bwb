@@ -485,6 +485,13 @@ body {
     background-color: white;
     padding: 20px;
 }
+.readbox-fixed {
+    background: white;
+    color: black;
+    padding: 15px;
+    width: 80%;
+    height: 100px;
+}
 .inbox {   
     -ms-flex: 70%; 
     flex: 70%;
@@ -496,6 +503,16 @@ body {
     flex: 70%;
     background-color: #f1f1f1;
     padding: 20px;
+}
+.codebox-fixed {
+    background: #f1f1f1;
+    color: black;
+    padding: 15px;
+    width: 80%;
+    height: 100px;
+}
+.scroll {
+    overflow: scroll;
 }
 .footer-default {
     padding: 20px;
