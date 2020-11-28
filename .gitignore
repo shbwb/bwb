@@ -1,7 +1,26 @@
-*.dll
-*.lib
+# Numerous always-ignore extensions
+*.diff
+*.err
 *.exe
-*.jar
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
 *.zip
-*.tar.gz
-*.rar
+*~
+
+# OS or Editor folders
+._*
+.cache
+.DS_Store
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+Thumbs.db
+/.vscode/
