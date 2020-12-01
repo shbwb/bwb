@@ -139,7 +139,7 @@ img {
   vertical-align: middle;
   border-style: none;
 }
-.button {
+button {
   border: none;
   padding: 15px 32px;
   text-align: center;
@@ -148,6 +148,8 @@ img {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  color: white;
+  background: #1abc9c;
 }
 .smooth1 {
 	border-radius: 2px;
@@ -179,14 +181,14 @@ img {
 .smooth10 {
 	border-radius: 20px;
 }
-.green {
+.success {
 	background-color: #4CAF50;
 	color: white;
 }
-.grey {
+.secondary {
 	background-color: #f1f1f1;
 }
-.blue { 
+.info { 
 	background-color: #81BEF7;
   color: white;
 }
@@ -194,29 +196,17 @@ img {
 	background-color: #000;
 	color: white;
 }
-.red {
+.alert {
 	background-color: #F78181;
 	color: white;
 }
-.ocean {
+.default {
   background: #1abc9c;
   color: white;
 }
-.purple {
-  background: #8000FF;
+.warning {
+  background: #FF8000;
   color: white;
-}
-.yellow {
-  background: #FFFF00;
-  color: black;
-}
-.pink {
-  background: #F781BE;
-  color: white;
-}
-.rice {
-  background: #FBF5EF;
-  color: black;
 }
 small {
   color:#D8D8D8;
@@ -389,12 +379,11 @@ body {
 }
 .header {
   padding: 30px;
+  color: white;
+  background: #1abc9c;
 }
 .header h1 {
   font-size: 40px;
-}
-.text-center {
-  text-align: center;
 }
 /* navbars */
 .navbar-theme-dark {
