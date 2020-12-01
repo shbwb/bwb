@@ -379,6 +379,7 @@ body {
 }
 .header {
   padding: 30px;
+  text-align: center;
   color: white;
   background: #1abc9c;
 }
