@@ -207,7 +207,34 @@ button {
   background: #1abc9c;
   color: white;
 }
-warning, .warning {
+.warning {
+  background: #FF8000;
+  color: white;
+}
+success {
+	background-color: #4CAF50;
+	color: white;
+}
+secondary {
+	background-color: #f1f1f1;
+}
+info { 
+	background-color: #81BEF7;
+  color: white;
+}
+black {
+	background-color: #000;
+	color: white;
+}
+alert {
+	background-color: #F78181;
+	color: white;
+}
+default {
+  background: #1abc9c;
+  color: white;
+}
+warning {
   background: #FF8000;
   color: white;
 }
