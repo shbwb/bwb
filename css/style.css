@@ -212,31 +212,25 @@ button {
   color: white;
 }
 success {
-	background-color: #4CAF50;
-	color: white;
+	color: #4CAF50;
 }
 secondary {
-	background-color: #f1f1f1;
+	color: #f1f1f1;
 }
 info { 
-	background-color: #81BEF7;
-  color: white;
+	color: #81BEF7;
 }
 black {
-	background-color: #000;
-	color: white;
+	color: #000;
 }
 alert {
-	background-color: #F78181;
-	color: white;
+  color: #F78181;
 }
 default {
-  background: #1abc9c;
-  color: white;
+  color: #1abc9c;
 }
 warning {
-  background: #FF8000;
-  color: white;
+  color: #FF8000;
 }
 small {
   color:#D8D8D8;
