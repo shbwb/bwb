@@ -50,12 +50,14 @@ hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-code {
+code,
+.code {
   font-size: 87.5%;
   color: #FE2E9A;
   word-break: break-word;
 }
-xmp {
+xmp,
+.xmp {
   font-size: 87.5%;
   color: #FE2E9A;
   word-break: break-word;
@@ -63,7 +65,8 @@ xmp {
 a > code {
   color: inherit;
 }
-kbd {
+kbd,
+.kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #000;
@@ -71,12 +74,14 @@ kbd {
   border-radius: 0.2rem;
   border:1px solid #a1a1a1;
 }
-pre {
+pre,
+.pre {
   display: block;
   font-size: 87.5%;
   color: #212529;
 }
-address {
+address,
+.address {
   margin-bottom: 1rem;
   line-height: inherit;
 }
@@ -85,7 +90,8 @@ strong {
   font-weight: bolder;
   color: #1C1C1C;
 }
-textarea {
+textarea,
+.textarea {
   margin: 0;
 }
 .pagination a.right {
@@ -232,10 +238,12 @@ default {
 warning {
   color: #FF8000;
 }
-small {
+small,
+.small {
   color:#D8D8D8;
 }
-mark {
+mark,
+.mark {
   color: #000;
   background: #FFBF00;
 }
