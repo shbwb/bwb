@@ -1,3 +1,6 @@
+### V.3.1
+* Add three tags.
+
 ### V.2.1
 * Change 4 html default tags.
 
