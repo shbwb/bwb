@@ -321,18 +321,6 @@ input[focus=off] {
 	padding:10px 40px; 
 	border-radius:15px;
 }
-.bar-danger {
-  background:#F78181;
-  color:white;
-}
-.bar-info {
-  background:#81BEF7;
-  color:white;
-}
-.bar-success {
-  background:#04B431;
-  color: white;
-}
 #snackbar {
   visibility: hidden;
   min-width: 250px;
