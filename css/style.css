@@ -184,26 +184,26 @@ button {
 .smooth10 {
 	border-radius: 20px;
 }
-success, .success {
+.success {
 	background-color: #4CAF50;
 	color: white;
 }
-secondary, .secondary {
+.secondary {
 	background-color: #f1f1f1;
 }
-info, .info { 
+.info { 
 	background-color: #81BEF7;
   color: white;
 }
-black, .black {
+.black {
 	background-color: #000;
 	color: white;
 }
-alert, .alert {
+.alert {
 	background-color: #F78181;
 	color: white;
 }
-default, .default {
+.default {
   background: #1abc9c;
   color: white;
 }
