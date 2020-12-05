@@ -27,8 +27,4 @@ The document has not been finished yet
 
 <hr />
 
-# [License](https://github.com/crqblog/bwb/blob/main/LICENSE)
-
-We use the [MIT License](https://github.com/crqblog/bwb/blob/main/LICENSE)
-
 # [Support](https://bwb.js.org/pages/support/)
