@@ -1,6 +1,6 @@
 <a href="https://github.com/shbwb/bwb"><img
   src="https://bwb.js.org/pages/bwb-logo.jpg" alt="BWB Studio"
-  width="80" height="80" align="right"></a>
+  width="90" height="90" align="right"></a>
 
 > Welcome to use BWB! A basic webpage builder!
 # Basic webpage builder
