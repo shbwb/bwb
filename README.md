@@ -1,4 +1,4 @@
-![BWB Studio](https://bwb.js.org/pages/bwb-logo.jpg)
+![BWB Studio](https://github.com/shbwb/bwb/raw/main/pages/bwb-logo.jpg)
 
 # Basic webpage builder
 A **b**asic **w**ebpage **b**uilder
