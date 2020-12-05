@@ -2,7 +2,7 @@
   src="https://bwb.js.org/pages/bwb-logo.jpg" alt="BWB Studio"
   width="90" height="90" align="right"></a>
 
-> Welcome to use BWB! A basic webpage builder!
+> Welcome to use BWB! 
 # Basic webpage builder
 A **b**asic **w**ebpage **b**uilder
 
