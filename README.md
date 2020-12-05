@@ -5,10 +5,9 @@
 > Welcome to use BWB! Only build for you.
 
 <hr>
+
 ![issue](https://img.shields.io/github/issues/shbwb/bwb)
-
 ![license](https://img.shields.io/github/license/shbwb/bwb)
-
 ![forks](https://img.shields.io/github/forks/shbwb/bwb)
 ![stars](https://img.shields.io/github/stars/shbwb/bwb)
 # Basic webpage builder
