@@ -469,7 +469,7 @@ body {
   color: black;
 }
 .navbar-theme-light-scroll {
-  background-color: #333;
+  background-color: #ddd;
   overflow: auto;
   white-space: nowrap;
 }
