@@ -210,6 +210,7 @@ button {
 }
 .secondary {
 	background-color: #f1f1f1;
+  color: #333;
 }
 .info { 
 	background-color: #81BEF7;
