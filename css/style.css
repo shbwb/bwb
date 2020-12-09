@@ -153,26 +153,16 @@ img {
   border-style: none;
 }
 button {
-  background: #1abc9c;
-  border: 1px solid #bbbbbb;
-  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.2);
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-family: "Helvetica Neue", Arial, Verdana, "Nimbus Sans L", sans-serif;
-  font-size: 13px;
-  font-weight: 500;
-  height: 31px;
-  line-height: 28px;
-  outline: none;
-  padding: 0 13px;
-  text-decoration: none;
-  vertical-align: middle;
-  white-space: nowrap;
-  -webkit-font-smoothing: antialiased;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+    background-color: #1abc9c; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 .smooth1 {
 	border-radius: 2px;
