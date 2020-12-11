@@ -46,6 +46,9 @@ a:hover {
   color: #004da1;
   text-decoration: underline;
 }
+a[href^="http"]:empty::before {
+  content: attr(href);
+}
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
