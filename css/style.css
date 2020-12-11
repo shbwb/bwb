@@ -148,6 +148,11 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem;
 }
+
+.ws-sm-1, .ws-sm-2, .ws-sm-3, .ws-sm-4, .ws-sm-5, .ws-md-1, .ws-md-2, .ws-md-3, .ws-md-4, .ws-md-5, .ws-lg-1, .ws-lg-2, .ws-lg-3, .ws-lg-4, .ws-lg-5 {
+  color: black;
+}
+
 img {
   vertical-align: middle;
   border-style: none;
