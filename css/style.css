@@ -6,6 +6,7 @@
 /*! style.css | MIT License */
 * {
   box-sizing: border-box;
+  font-family: Arial;
 }
 .right {
 	position:absolute;
