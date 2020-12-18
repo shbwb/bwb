@@ -373,7 +373,7 @@ input[focus=off] {
 }
 
 .dropdown-content {
-  border-radius: 8px;
+  border-radius: 6px;
   display: none;
   position: absolute;
   background-color: #f9f9f9;
