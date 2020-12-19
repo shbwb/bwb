@@ -532,7 +532,7 @@ body {
   overflow: auto;
   white-space: nowrap;
   color: #fff;
-  test-align: center;
+  text-align: center;
 }
 .navbar-theme-dark-scroll a {
   display: inline-block;
