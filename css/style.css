@@ -532,7 +532,6 @@ body {
   overflow: auto;
   white-space: nowrap;
   color: #fff;
-  text-align: center;
 }
 .navbar-theme-dark-scroll a {
   display: inline-block;
@@ -550,7 +549,6 @@ body {
   overflow: auto;
   white-space: nowrap;
   color: #333;
-  text-align: center;
 }
 .navbar-theme-light-scroll a {
   display: inline-block;
