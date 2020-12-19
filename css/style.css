@@ -486,8 +486,6 @@ body {
 }
 /* navbars */
 .navbar-theme-dark {
-  float: left;
-  display: block;
   overflow: hidden;
   background-color: #333;
   color: #fff;
@@ -509,8 +507,6 @@ body {
   color: black;
 }
 .navbar-theme-light {
-  float: left;
-  display: block;
   overflow: hidden;
   background-color: #ddd;
   color: #333;
