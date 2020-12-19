@@ -255,6 +255,7 @@ img {
   vertical-align: middle;
   border-style: none;
 }
+.button,
 button {
   background-color: #1abc9c; 
   border: none;
