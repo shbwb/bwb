@@ -489,6 +489,7 @@ body {
   overflow: hidden;
   background-color: #333;
   color: #fff;
+  text-align: center;
 }
 .navbar-theme-dark a {
   float: left;
@@ -497,9 +498,6 @@ body {
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
-}
-.navbar-theme-dark p {
-  color: white;
 }
 .navbar-theme-dark a.right {
   float: right;
