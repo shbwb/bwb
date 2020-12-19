@@ -488,6 +488,7 @@ body {
 .navbar-theme-dark {
   overflow: hidden;
   background-color: #333;
+  color; #fff;
 }
 .navbar-theme-dark a {
   float: left;
@@ -510,6 +511,7 @@ body {
 .navbar-theme-light {
   overflow: hidden;
   background-color: #ddd;
+  color: #333;
 }
 .navbar-theme-light a {
   float: left;
@@ -530,6 +532,7 @@ body {
   background-color: #333;
   overflow: auto;
   white-space: nowrap;
+  color: #fff;
 }
 .navbar-theme-dark-scroll a {
   display: inline-block;
@@ -546,6 +549,7 @@ body {
   background-color: #ddd;
   overflow: auto;
   white-space: nowrap;
+  color: #333;
 }
 .navbar-theme-light-scroll a {
   display: inline-block;
