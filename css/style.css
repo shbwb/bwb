@@ -61,6 +61,10 @@ input:checked + .slider:before {
 	right:20px;
   z-index:1000;
 }
+s {
+  color: #d1d1d1;
+  font-size: 87.5%;
+}
 div {  
   word-break:normal;
   white-space:pre-warp;
