@@ -156,7 +156,6 @@ textarea,
 .textarea {
   margin: 0;
 }
-/*         */
 .btn-group-link {
   position: relative;
   display: block;
@@ -179,7 +178,6 @@ textarea,
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
-
 .btn-group {
   display: -ms-flexbox;
   display: flex;
@@ -209,33 +207,6 @@ textarea,
   background-color: #fff;
   border-color: #dee2e6;
 }
-.btn-group-lg .btn-group-link {
-  padding: 0.75rem 1.5rem;
-  font-size: 1.25rem;
-  line-height: 1.5;
-}
-.btn-group-lg .btn-group-item:first-child .btn-group-link {
-  border-top-left-radius: 0.3rem;
-  border-bottom-left-radius: 0.3rem;
-}
-.btn-group-lg .btn-group-item:last-child .btn-group-link {
-  border-top-right-radius: 0.3rem;
-  border-bottom-right-radius: 0.3rem;
-}
-.btn-group-sm .btn-group-link {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
-  line-height: 1.5;
-}
-.btn-group-sm .btn-group-item:first-child .btn-group-link {
-  border-top-left-radius: 0.2rem;
-  border-bottom-left-radius: 0.2rem;
-}
-.btn-group-sm .btn-group-item:last-child .btn-group-link {
-  border-top-right-radius: 0.2rem;
-  border-bottom-right-radius: 0.2rem;
-}
-/*      */
 .pagination a.right {
   position:absolute; 
   right:0px;
