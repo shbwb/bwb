@@ -165,16 +165,17 @@ textarea,
   color: #007bff;
   background-color: #fff;
   border: 1px solid #dee2e6;
+  text-decoration: none;
 }
 .btn-group-link:hover {
-  z-index: 2;
-  color: #0056b3;
-  text-decoration: none;
-  background-color: #e9ecef;
+  z-index: 1;
+  color: #fff;
+  text-decoration: underline;
+  background-color: #007bff;
   border-color: #dee2e6;
 }
 .btn-group-link:focus {
-  z-index: 2;
+  z-index: 1;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
