@@ -161,7 +161,7 @@ textarea,
   display: block;
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
-  line-height: 1.25;
+  line-height: 1.4;
   color: #007bff;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -174,26 +174,21 @@ textarea,
   background-color: #007bff;
   border-color: #dee2e6;
 }
-.btn-group-link:focus {
-  z-index: 1;
-  outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-}
 .btn-group {
   display: -ms-flexbox;
   display: flex;
   padding-left: 0;
   list-style: none;
-  border-radius: 0.21rem;
+  border-radius: 5px;
 }
 .btn-group-item:first-child .btn-group-link {
   margin-left: 0;
-  border-top-left-radius: 0.25rem;
-  border-bottom-left-radius: 0.25rem;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 .btn-group-item:last-child a {
-  border-top-right-radius: 0.25rem;
-  border-bottom-right-radius: 0.25rem;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 .btn-group-item.active .btn-group-link {
   z-index: 1;
