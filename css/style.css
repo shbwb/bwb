@@ -8,7 +8,24 @@
   box-sizing: border-box;
   font-family: Arial;
 }
-
+.pagination {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+}
+.pagination li {display: inline;}
+.pagination li a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+.pagination li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.pagination li a:hover:not(.active) {background-color: #ddd;}
 ul.pagination {
   display: inline-block;
   padding: 0;
@@ -275,27 +292,6 @@ textarea,
   background-color: #fff;
   border-color: #dee2e6;
 }
-.pagination a.right {
-  position:absolute; 
-  right:0px;
-}
-.pagination {
-  display: inline-block;
-  padding: 0;
-  margin: 0;
-}
-.pagination li {display: inline;}
-.pagination li a {
-  color: black;
-  float: left;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-.pagination li a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-.pagination li a:hover:not(.active) {background-color: #ddd;}
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
