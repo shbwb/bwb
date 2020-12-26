@@ -11,23 +11,21 @@
 table {
     border-collapse: collapse;
     border-spacing: 0;
-}
-td,th {
-    padding: 0;
-}
-.pure-table {
-    border-collapse: collapse;
+	border-collapse: collapse;
     border-spacing: 0;
     empty-cells: show;
     border: 1px solid #cbcbcb;
 }
-.pure-table caption {
+td,th {
+    padding: 0;
+}
+table caption {
     color: #000;
     font: italic 85%/1 arial,sans-serif;
     padding: 1em 0;
     text-align: center;
 }
-.pure-table td,.pure-table th {
+table td,table th {
     border-left: 1px solid #cbcbcb;
     border-width: 0 0 0 1px;
     font-size: inherit;
@@ -35,20 +33,20 @@ td,th {
     overflow: visible;
     padding: .5em 1em;
 }
-.pure-table thead {
+table thead {
     background-color: #e0e0e0;
     color: #000;
     text-align: left;
     vertical-align: bottom;
 }
-.pure-table td {
+table td {
     background-color: transparent;
 }
-.pure-table-horizontal td,.pure-table-horizontal th {
+table td,table th {
     border-width: 0 0 1px 0;
     border-bottom: 1px solid #cbcbcb;
 }
-.pure-table-horizontal tbody>tr:last-child>td {
+table tbody>tr:last-child>td {
     border-bottom-width: 0;
 }
 .switch {
