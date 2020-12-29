@@ -79,37 +79,37 @@ table {
   border: 1px solid #cbcbcb;
 }
 td,th {
-    padding: 0;
+  padding: 0;
 }
 table caption {
-    color: #000;
-    font: italic 85%/1 arial,sans-serif;
-    padding: 1em 0;
-    text-align: center;
+  color: #000;
+  font: italic 85%/1 arial,sans-serif;
+  padding: 1em 0;
+  text-align: center;
 }
 table td,table th {
-    border-left: 1px solid #cbcbcb;
-    border-width: 0 0 0 1px;
-    font-size: inherit;
-    margin: 0;
-    overflow: visible;
-    padding: .5em 1em;
+  border-left: 1px solid #cbcbcb;
+  border-width: 0 0 0 1px;
+  font-size: inherit;
+  margin: 0;
+  overflow: visible;
+  padding: .5em 1em;
 }
 table thead {
-    background-color: #e0e0e0;
-    color: #000;
-    text-align: left;
-    vertical-align: bottom;
+  background-color: #e0e0e0;
+  color: #000;
+  text-align: left;
+  vertical-align: bottom;
 }
 table td {
-    background-color: transparent;
+  background-color: transparent;
 }
 table td,table th {
-    border-width: 0 0 1px 0;
-    border-bottom: 1px solid #cbcbcb;
+  border-width: 0 0 1px 0;
+  border-bottom: 1px solid #cbcbcb;
 }
 table tbody>tr:last-child>td {
-    border-bottom-width: 0;
+  border-bottom-width: 0;
 }
 .switch {
   position: relative;
