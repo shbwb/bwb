@@ -67,6 +67,9 @@ ul.breadcrumb li+li:before {
   color: black;
   content: "/\00a0";
 }
+marquee {
+  font-size: 97.5%;
+}
 table {
   border-collapse: collapse;
   border-spacing: 0;
