@@ -16,6 +16,7 @@ A **b**asic **w**ebpage **b**uilder
 # Usage
 ```html
 <link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.3.4/css/style.css" rel="stylesheet">
+<link href="https://bwb.js.org/css/color.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.3.4/js/plugins.js"></script>
 ```
 
