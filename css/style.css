@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/shbwb/bwb/blob/main/LICENSE)
  */
 /*! style.css | MIT License */
-@import url("/color.css");
+@import url("https://bwb.js.org/css/color.css");
 * {
   box-sizing: border-box;
   font-family: Arial;
