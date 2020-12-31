@@ -624,15 +624,11 @@ body {
   margin: 0;
 }
 .header {
+  background: #1abc9c;
+  color: white;
   padding: 30px;
   text-align: center;
-  color: white;
-  background: #1abc9c;
 }
-.header h1 {
-  font-size: 40px;
-}
-/* navbars */
 .navbar-theme-dark {
   overflow: hidden;
   background-color: #333;
