@@ -72,7 +72,7 @@ ul.breadcrumb li+li:before {
 }
 marquee {
   font-size: 97.5%;
-  color: #d1d1d1;
+  color: #333;
 }
 marquee > a {
   font-size: 97.5%;
