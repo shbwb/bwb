@@ -721,7 +721,6 @@ body {
   margin-right: -16px;
   margin-left: -16px;
 }
-
 .container {
   width: 100%;
   padding-right: 14px;
@@ -781,12 +780,6 @@ body {
 }
 .scroll {
   overflow: scroll;
-}
-.footer-default {
-  padding: 20px;
-  text-align: center;
-  background: #E6E6E6;
-  color: grey
 }
 @media screen and (max-width: 700px) {
   .inbox {   
