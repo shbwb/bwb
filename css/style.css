@@ -629,6 +629,9 @@ body {
   padding: 30px;
   text-align: center;
 }
+.header h1 {		
+   font-size: 40px;		
+ }
 .navbar-theme-dark {
   overflow: hidden;
   background-color: #333;
