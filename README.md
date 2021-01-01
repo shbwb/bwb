@@ -26,7 +26,8 @@ You need to add these 2 urls to use **bwb**
 The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-docs/fork) or [send us an e-mail](mailto:xiaoqi77614@icloud.com)
 
 <hr />
-# Download
+
+# [Download](https://bwb.js.org/start)
 
 [Start](https://bwb.js.org/start)
 
