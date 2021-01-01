@@ -22,12 +22,6 @@ input.addEventListener("keyup", function(event) {
 function timer() {
     setTimeout(function(){ alert(text); }, time);
 }
-var vartime=setInterval(function(){clock()},1);
-function clock(){
-	var d=new Date();
-	var t=d.toLocaleTimeString();
-	document.getElementById("clock").innerHTML=t;
-}
 /* ----------------------------------------------------------------*/
 /* browser */
 /* ----------------------------------------------------------------*/
