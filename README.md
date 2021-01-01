@@ -15,12 +15,11 @@ A **b**asic **w**ebpage **b**uilder
 
 # Usage
 ```html
-<link href="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.3.4/css/style.css" rel="stylesheet">
-<link href="https://bwb.js.org/css/color.css" rel="stylesheet">
+<link href="https://bwb.js.org/start/build.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/gh/shbwb/bwb@v.3.4/js/plugins.js"></script>
 ```
 
-You need to add these 3 urls to use **bwb**
+You need to add these 2 urls to use **bwb**
 
 # [Start](https://bwb-docs.js.org) 
 
