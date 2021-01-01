@@ -12,7 +12,7 @@ Everyone can use BWB through only one line of code instead of using a CDN.
 
 ```html
 <link href="https://bwb.js.org/start/build.css" rel="stylesheet">
-<link href="https://bwb.js.org/start/build.js" rel="stylesheet">
+<script src="https://bwb.js.org/start/build.js"></script>
 ```
 
 <hr>
