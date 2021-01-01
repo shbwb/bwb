@@ -22,9 +22,12 @@ input.addEventListener("keyup", function(event) {
 function timer() {
     setTimeout(function(){ alert(text); }, time);
 }
-/* ---------------------------------------------------------------------*/
+function timerunless(){
+	setInterval(function(){alert(text)},time);
+}
+/* ----------------------------------------------------------------*/
 /* browser */
-/* ---------------------------------------------------------------------*/
+/* ----------------------------------------------------------------*/
 
 // history
 function goback(){
