@@ -752,12 +752,14 @@ body {
   flex: 30%;
   background-color: white;
   padding: 20px;
+  border: 3px solid #ccc;
 }
 .readbox-fixed {
   background: white;
   color: black;
   padding: 15px;
   height: 100px;
+  border: 3px solid #ccc;
 }
 .inbox {   
   -ms-flex: 70%; 
