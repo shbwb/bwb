@@ -557,7 +557,7 @@ input[focus=off] {
   text-align: center;
   font-family: arial;
 }
-.hover.card:hover {
+.hover .card:hover {
   background-color:#BDBDBD;
   box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
   transition: background-color .5s;
