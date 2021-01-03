@@ -31,6 +31,8 @@ The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-d
 
 [Start](https://bwb.js.org/start)
 
+You can get our main code here :)
+
 <hr />
 
 # [Support](https://bwb.js.org/pages/support/)
