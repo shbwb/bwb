@@ -10,6 +10,9 @@
   -webkit-box-sizing:border-box;
   font-family: Arial;
 }
+.center {
+  text-align: center;
+}
 ul.none {
   list-style-type: none;
 }
