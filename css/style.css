@@ -4,7 +4,6 @@
  * Licensed under MIT (https://github.com/shbwb/bwb/blob/main/LICENSE)
  */
 /*! style.css | MIT License */
-
 :root {
   --color-black: #000;
   --color-default: #1abc9c;
@@ -651,7 +650,7 @@ body {
   margin: 0;
 }
 .header {
-  background: #1abc9c;
+  background: var(--color-info);
   color: white;
   padding: 30px;
   text-align: center;
