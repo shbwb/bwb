@@ -337,7 +337,7 @@ textarea,
   border-color: #007bff;
 }
 .btn-group-item.disabled .btn-group-link {
-  color: #d1d1d1;
+  color: #6c757d;
   pointer-events: none;
   cursor: auto;
   background-color: #dee2e6;
