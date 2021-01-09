@@ -468,31 +468,31 @@ button {
 	border-radius: 20px;
 }
 .success {
-	background-color: #4CAF50;
+	background-color: var(--color-success);
 	color: white;
 }
 .secondary {
-	background-color: #f1f1f1;
+	background-color: var(--color-secondary);
   color: #333;
 }
 .info { 
-	background-color: #81BEF7;
+	background-color: var(--color-info);
   color: white;
 }
 .black {
-	background-color: #000;
+	background-color: var(--color-black);
 	color: white;
 }
 .alert {
-	background-color: #F78181;
+	background-color: var(--color-alert);
 	color: white;
 }
 .default {
-  background: #1abc9c;
+  background: var(--color-default);
   color: white;
 }
 .warning {
-  background: #FF8000;
+  background: var(--color-warning);
   color: white;
 }
 success {
@@ -650,7 +650,7 @@ body {
   margin: 0;
 }
 .header {
-  background: var(--color-info);
+  background: var(--color-default);
   color: white;
   padding: 30px;
   text-align: center;
