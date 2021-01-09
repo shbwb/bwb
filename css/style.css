@@ -312,6 +312,7 @@ textarea,
   text-decoration: underline;
   background-color: #007bff;
   border-color: #dee2e6;
+  transition: background-color .5s;
 }
 .btn-group {
   display: -ms-flexbox;
