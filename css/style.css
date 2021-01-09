@@ -4,6 +4,16 @@
  * Licensed under MIT (https://github.com/shbwb/bwb/blob/main/LICENSE)
  */
 /*! style.css | MIT License */
+
+:root {
+  --color-black: #fff;
+  --color-default: #e9e9e9;
+  --color-alert: #920de9;
+  --color-success: #920de90b;
+  --color-warning: #f4f4f4;
+  --color-info: #000;
+  --color-secondary: #999;
+}
 * {
   box-sizing:border-box; 
   -moz-box-sizing:border-box; 
