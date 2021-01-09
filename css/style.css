@@ -337,10 +337,10 @@ textarea,
   border-color: #007bff;
 }
 .btn-group-item.disabled .btn-group-link {
-  color: #6c757d;
+  color: #d1d1d1;
   pointer-events: none;
   cursor: auto;
-  background-color: #fff;
+  background-color: #dee2e6;
   border-color: #dee2e6;
 }
 h1, h2, h3, h4, h5, h6,
