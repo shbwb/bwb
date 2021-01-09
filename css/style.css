@@ -6,13 +6,13 @@
 /*! style.css | MIT License */
 
 :root {
-  --color-black: #fff;
-  --color-default: #e9e9e9;
-  --color-alert: #920de9;
-  --color-success: #920de90b;
-  --color-warning: #f4f4f4;
-  --color-info: #000;
-  --color-secondary: #999;
+  --color-black: #000;
+  --color-default: #1abc9c;
+  --color-alert: #F78181;
+  --color-success: #4CAF50;
+  --color-warning: #FF8000;
+  --color-info: #81BEF7;
+  --color-secondary: #f1f1f1;
 }
 * {
   box-sizing:border-box; 
