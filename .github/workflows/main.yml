@@ -1,15 +1,17 @@
-name: Build CI
+name: build-bwb CI
+
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
+
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
         node-version: [14x]
+
     steps:
       - run: sshpass -p ${{secrets.SECRET}} ssh -o StrictHostKeyChecking=no ${{secrets.NAME_USER}} 'cd ${{secrets.PATH}} && git pull && npm run build'
