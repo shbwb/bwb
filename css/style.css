@@ -632,12 +632,32 @@ input[focus=off] {
   to {bottom: 30px; opacity: 1;}
 }
 
+@-o-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-moz-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
 @keyframes fadein {
   from {bottom: 0; opacity: 0;}
   to {bottom: 30px; opacity: 1;}
 }
 
 @-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@-o-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@-moz-keyframes fadeout {
   from {bottom: 30px; opacity: 1;} 
   to {bottom: 0; opacity: 0;}
 }
@@ -737,6 +757,8 @@ body {
 }
 .sticky {
   position: -webkit-sticky;
+  position: -o-sticky;
+  position: -moz-sticky;
   position: sticky;
   top: 0;
 }
