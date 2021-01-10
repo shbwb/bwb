@@ -5,7 +5,7 @@
 > Welcome to use BWB! Only build for you.
 
 <hr>
-
+[![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ![issue](https://img.shields.io/github/issues/shbwb/bwb)
 ![license](https://img.shields.io/github/license/shbwb/bwb)
 ![forks](https://img.shields.io/github/forks/shbwb/bwb)
