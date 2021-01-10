@@ -19,6 +19,16 @@
   -webkit-box-sizing:border-box;
   font-family: Arial;
 }
+figure {
+    margin: 0;
+    padding: 0;
+}
+figure img {
+    max-width: 100%;
+}
+[hidden] {
+    display: none;
+}
 .grayscale {
   filter: grayscale(100%); 
   -webkit-filter: grayscale(100%); 
