@@ -6,12 +6,11 @@
 
 <hr>
 
-[![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 ![issue](https://img.shields.io/github/issues/shbwb/bwb)
 ![license](https://img.shields.io/github/license/shbwb/bwb)
 ![forks](https://img.shields.io/github/forks/shbwb/bwb)
 ![stars](https://img.shields.io/github/stars/shbwb/bwb)
+[![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Basic webpage builder
 A **b**asic **w**ebpage **b**uilder
 
