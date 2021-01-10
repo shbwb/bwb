@@ -13,6 +13,17 @@
   --color-info: #81BEF7;
   --color-secondary: #f1f1f1;
 }
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-black: #fff;
+    --color-default: #1abc9c;
+    --color-alert: #F78181;
+    --color-success: #4CAF50;
+    --color-warning: #FF8000;
+    --color-info: #81BEF7;
+    --color-secondary: #f1f1f1;
+  }
+}
 * {
   box-sizing:border-box; 
   -moz-box-sizing:border-box; 
