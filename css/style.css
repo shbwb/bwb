@@ -848,14 +848,29 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
-#inbox {   
+#drop-content {   
   -ms-flex: 70%; 
   flex: 70%;
   background-color: #f1f1f1;
   padding: 20px;
 }
-#inbox {   
+#drop-content {   
   display:none;
+}
+#drop-content > a {   
+  text-align: center;
+}
+#drop-content > p {   
+  text-align: center;
+}
+#drop-content > b {   
+  text-align: center;
+}
+#drop-content > i {   
+  text-align: center;
+}
+#drop-content > div {   
+  text-align: center;
 }
 .codebox {   
   -ms-flex: 70%; 
