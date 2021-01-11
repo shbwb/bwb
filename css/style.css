@@ -853,6 +853,8 @@ body {
   flex: 70%;
   background-color: #f1f1f1;
   padding: 20px;
+}
+#inbox {   
   display:none;
 }
 .codebox {   
