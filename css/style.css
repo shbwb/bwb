@@ -848,6 +848,11 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
+.drop-box {
+  background: #f1f1f1;
+  color: #d1d1d1;
+  height: 50px;
+}
 #drop-content {   
   -ms-flex: 70%; 
   flex: 70%;
