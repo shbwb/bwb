@@ -848,6 +848,12 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
+#inbox {   
+  -ms-flex: 70%; 
+  flex: 70%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
 .codebox {   
   -ms-flex: 70%; 
   flex: 70%;
