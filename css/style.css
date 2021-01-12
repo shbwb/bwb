@@ -848,33 +848,36 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
-.drop-box {
+.dropdown {
   background: #f1f1f1;
   color: #d1d1d1;
   height: 50px;
+  text-align: center;
+  font-size: 250%
 }
-#drop-content {   
+#dropdown-content {   
   -ms-flex: 70%; 
   flex: 70%;
   background-color: #f1f1f1;
   padding: 20px;
 }
-#drop-content {   
+#dropdown-content {   
+  text-align: center;
   display:none;
 }
-#drop-content > a {   
+#dropdown-content > a {   
   text-align: center;
 }
-#drop-content > p {   
+#dropdown-content > p {   
   text-align: center;
 }
-#drop-content > b {   
+#dropdown-content > b {   
   text-align: center;
 }
-#drop-content > i {   
+#dropdown-content > i {   
   text-align: center;
 }
-#drop-content > div {   
+#dropdown-content > div {   
   text-align: center;
 }
 .codebox {   
