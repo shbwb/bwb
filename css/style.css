@@ -852,10 +852,15 @@ body {
   background: #f1f1f1;
   color: #d1d1d1;
   text-align: center;
+  height:45px;
   font-size: 222%;
   margin-top:auto;
+  display: block;
+  height:auto!important;
+  margin-bottom:-36px;
 }
 #dropdown-content {   
+  -webkit-margin-top: -36px;
   background-color: #f1f1f1;
   padding: 20px;
   border-style: solid;
