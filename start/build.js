@@ -34,4 +34,8 @@ function goforward(){
 function reload(){
   location.reload()
 }
-
+$(document).ready(function(){
+  $(".dropdown").click(function(){
+    $("#dropdown-content").slideToggle("slow");
+  });
+});
