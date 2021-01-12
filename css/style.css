@@ -849,17 +849,15 @@ body {
   padding: 20px;
 }
 .dropdown {
-  -ms-flex: 70%; 
-  flex: 70%;
+  -ms-flex: 100%; 
+  flex: 100%;
   background: #f1f1f1;
   color: #d1d1d1;
   text-align: center;
-  font-size: 250%;
+  font-size: 222%;
   margin-top:auto;
 }
 #dropdown-content {   
-  -ms-flex: 100%; 
-  flex: 100%;
   background-color: #f1f1f1;
   padding: 20px;
   border-style: solid;
