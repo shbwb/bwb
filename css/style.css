@@ -855,15 +855,15 @@ body {
   text-align: center;
   font-size: 250%;
   margin-top:auto;
-  border-style: solid;
-  border-color: #d1d1d1 #f1f1f1 #f1f1f1 #f1f1f1;
-  border-width: medium 0px 0px 0px;
 }
 #dropdown-content {   
   -ms-flex: 70%; 
   flex: 70%;
   background-color: #f1f1f1;
   padding: 20px;
+  border-style: solid;
+  border-color: #d1d1d1 #f1f1f1 #f1f1f1 #f1f1f1;
+  border-width: medium 0px 0px 0px;
 }
 #dropdown-content {   
   text-align: center;
