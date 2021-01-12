@@ -849,15 +849,11 @@ body {
   padding: 20px;
 }
 .dropdown {
-  background: #f1f1f1;
-  color: #d1d1d1;
-  text-align: center;
-  height:45px;
-  font-size: 222%;
-  margin-top:auto;
-  display: block;
-  height:auto!important;
-  margin-bottom:-36px;
+  padding:5px;
+  text-align:center;
+  background-color:#f1f1f1;
+  color: #848484;
+  font-size: 150%;
 }
 #dropdown-content {   
   -webkit-margin-top: -36px;
@@ -869,6 +865,7 @@ body {
 }
 #dropdown-content {   
   text-align: center;
+  color: #A4A4A4;
   display:none;
 }
 #dropdown-content > a {   
