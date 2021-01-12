@@ -853,7 +853,8 @@ body {
   color: #d1d1d1;
   height: 50px;
   text-align: center;
-  font-size: 250%
+  font-size: 250%;
+  margin-top:auto;
 }
 #dropdown-content {   
   -ms-flex: 70%; 
