@@ -18,9 +18,11 @@ A **b**asic **w**ebpage **b**uilder
 ```html
 <link href="https://bwb.js.org/start/build.css" rel="stylesheet">
 <script src="https://bwb.js.org/start/build.js"></script>
+<!-- jQuery cdn (to use the dropdown function) -->
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
 ```
 
-You need to add these 2 urls to use **bwb**
+You need to add these 3 urls to use **bwb**
 
 # [Start](https://bwb-docs.js.org) 
 
