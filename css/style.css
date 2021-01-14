@@ -102,7 +102,7 @@ ul.breadcrumb li {display: inline;}
 ul.breadcrumb li+li:before {
   padding: 8px;
   color: black;
-  content: "/\00a0";
+  content: "/";
 }
 .breadcrumb {
   padding: 8px 16px;
@@ -113,7 +113,7 @@ ul.breadcrumb li+li:before {
 .breadcrumb li+li:before {
   padding: 8px;
   color: black;
-  content: "/\00a0";
+  content: "/";
 }
 marquee {
   font-size: 97.5%;
