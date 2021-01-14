@@ -848,41 +848,6 @@ body {
   background-color: #f1f1f1;
   padding: 20px;
 }
-.dropdown {
-  padding:5px;
-  text-align:center;
-  background-color:#f1f1f1;
-  color: #848484;
-  font-size: 150%;
-}
-#dropdown-content {   
-  -webkit-margin-top: -36px;
-  background-color: #f1f1f1;
-  padding: 20px;
-  border-style: solid;
-  border-color: #d1d1d1 #f1f1f1 #f1f1f1 #f1f1f1;
-  border-width: medium 0px 0px 0px;
-}
-#dropdown-content {   
-  text-align: center;
-  color: #A4A4A4;
-  display:none;
-}
-#dropdown-content > a {   
-  text-align: center;
-}
-#dropdown-content > p {   
-  text-align: center;
-}
-#dropdown-content > b {   
-  text-align: center;
-}
-#dropdown-content > i {   
-  text-align: center;
-}
-#dropdown-content > div {   
-  text-align: center;
-}
 .codebox {   
   -ms-flex: 70%; 
   flex: 70%;
