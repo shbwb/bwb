@@ -129,6 +129,10 @@ marquee > a:hover {
   color: #8A0829;
   text-decoration: underline;
 }
+bdo[dir=rtl] {
+  color: #333;
+  font-family: Georgia;
+}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -234,6 +238,7 @@ div {
 }
 noscript {
   color: red;
+  font-size: 150%;
 }
 sub,
 sup {
