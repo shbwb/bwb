@@ -50,8 +50,14 @@ figure img {
   -o-filter: grayscale(100%); 
   -webkit-filter: grayscale(1);
 }
-.center {
+.text-center {
   text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
 }
 ul.none {
   list-style-type: none;
