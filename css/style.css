@@ -835,6 +835,18 @@ body {
   position: sticky;
   top: 0;
 }
+.sit-foot {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  z-index: 1;
+}
+.sit-head {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+}
 .row {
   display: -ms-flexbox;
   display: flex;
