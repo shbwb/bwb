@@ -486,6 +486,9 @@ h6, .h6 {
 .ws-lg-5 {
   font-size: 295%
 }
+.block01, .block02, .block04, .block08, .block16, .block32, .block64, .block128, .block256, .block512, .block1024, .block1028 {
+  display: block;
+}
 img {
   vertical-align: middle;
   border-style: none;
