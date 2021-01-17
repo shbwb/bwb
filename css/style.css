@@ -676,8 +676,8 @@ input[focus=off] {
   100% { transform: rotate(360deg); }
 }
 .bar {
-	padding:10px 40px; 
-	border-radius:15px;
+	padding:20px 40px; 
+	border-radius:6px;
 }
 #snackbar {
   visibility: hidden;
