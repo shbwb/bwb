@@ -34,6 +34,21 @@
     background: #424242;
     color: #eee;
   }
+  .readbox {
+    color: #333;
+  }
+  .readbox-fixed {
+    color: #333;
+  }
+  .inbox {
+    color: #333;
+  }
+  .codebox {
+    color: #333;
+  }
+  .codebox-fixed {
+    color: #333;
+  }
 }
 /*----------------------------------*/
 * {
