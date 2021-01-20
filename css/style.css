@@ -14,6 +14,7 @@
   --color-secondary: #f1f1f1;
   --color-space: #f1f1f1;
   --color-pindiv: #333;
+  --color-cardhover: #BDBDBD;
 }
 /*----------- test mode -----------*/
 @media (prefers-color-scheme: dark) {
@@ -27,6 +28,7 @@
     --color-secondary: #d1d1d1;
     --color-space: #585858;
     --color-pindiv: #eee;
+    --color-cardhover: #A4A4A4;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -712,9 +714,10 @@ input[focus=off] {
   font-family: arial;
 }
 .card.hover:hover {
-  background-color:#BDBDBD;
+  background-color: var(--color-cardhover);
   box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
   transition: background-color .5s;
+  color: var(--color-pindiv);
 }
 .loader {
   border: 16px solid #f3f3f3;
