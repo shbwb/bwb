@@ -36,13 +36,13 @@
   .readbox {
     -ms-flex: 30%; 
     flex: 30%;
-    background: #424242;
+    background: #585858;
     padding: 20px;
     border: 3px solid #ccc;
     color: #eee;
   }
   .readbox-fixed {
-    background: #424242;
+    background: #585858;
     color: #eee;
     padding: 15px;
     height: 100px;
@@ -51,25 +51,22 @@
   .inbox {   
     -ms-flex: 70%; 
     flex: 70%;
-    background: #424242;
+    background: #585858;
     padding: 20px;
     color: #eee;
   }
   .codebox {   
     -ms-flex: 70%; 
     flex: 70%;
-    background: #424242;
+    background: #585858;
     padding: 20px;
     color: #eee;
   }
   .codebox-fixed {
-    background: #424242;
+    background: #585858;
     color: #eee;
     padding: 15px;
     height: 100px;
-  }
-  p, h1, h2, h3, h4, h5, h6, b, i, strong {
-    color: #eee;
   }
   /* testing end */
 }
