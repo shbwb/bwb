@@ -16,6 +16,7 @@
   --color-pindiv: #333;
 }
 /*----------- test mode -----------*/
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --color-black: #333;
@@ -37,6 +38,7 @@
     background: #424242;
   }
 }
+*/
 /*----------------------------------*/
 * {
   box-sizing:border-box; 
