@@ -13,7 +13,7 @@
   --color-info: #81BEF7;
   --color-secondary: #f1f1f1;
 }
-/*
+/*----------- test mode -----------*/
 @media (prefers-color-scheme: dark) {
   :root {
     --color-black: #333;
@@ -25,7 +25,7 @@
     --color-secondary: #d1d1d1;
   }
 }
-*/
+/*----------------------------------*/
 * {
   box-sizing:border-box; 
   -moz-box-sizing:border-box; 
