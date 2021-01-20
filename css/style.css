@@ -32,6 +32,41 @@
   body {
     background: #424242;
   }
+  .readbox {
+    -ms-flex: 30%; 
+    flex: 30%;
+    background-color: #424242;
+    padding: 20px;
+    border: 3px solid #ccc;
+    color: #eee;
+  }
+  .readbox-fixed {
+    background: #424242;
+    color: #eee;
+    padding: 15px;
+    height: 100px;
+    border: 3px solid #ccc;
+  }
+  .inbox {   
+    -ms-flex: 70%; 
+    flex: 70%;
+    background-color: #424242;
+    padding: 20px;
+    color: #eee;
+  }
+  .codebox {   
+    -ms-flex: 70%; 
+    flex: 70%;
+    background-color: #424242;
+    padding: 20px;
+    color: #eee;
+  }
+  .codebox-fixed {
+    background: #424242;
+    color: #eee;
+    padding: 15px;
+    height: 100px;
+  }
   /* testing
   p, h1, h2, h3, h4, h5, h6, b, i, strong {
     color: #eee;
@@ -933,6 +968,7 @@ body {
  .container {
     max-width: 540px;
   }
+  
 }
 @media (min-width: 768px) {
   .container {
