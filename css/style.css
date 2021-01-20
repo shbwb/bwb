@@ -12,6 +12,8 @@
   --color-warning: #FF8000;
   --color-info: #81BEF7;
   --color-secondary: #f1f1f1;
+  --color-space: #f1f1f1;
+  --color-pindiv: #333;
 }
 /*----------- test mode -----------*/
 @media (prefers-color-scheme: dark) {
@@ -23,6 +25,8 @@
     --color-warning: #DF7401;
     --color-info: #084B8A;
     --color-secondary: #d1d1d1;
+    --color-space: #585858;
+    --color-pindiv: #333;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -951,10 +955,11 @@ body {
   background-color: white;
   padding: 20px;
   border: 3px solid #ccc;
+  color: var(--color-pindiv);
 }
 .readbox-fixed {
   background: white;
-  color: black;
+  color: var(--color-pindiv);
   padding: 15px;
   height: 100px;
   border: 3px solid #ccc;
@@ -962,18 +967,20 @@ body {
 .inbox {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: #f1f1f1;
+  background-color: var(--color-space);
   padding: 20px;
+  color: var(--color-pindiv);
 }
 .codebox {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: #f1f1f1;
+  background-color: var(--color-space);
   padding: 20px;
+  color: var(--color-pindiv);
 }
 .codebox-fixed {
-  background: #f1f1f1;
-  color: black;
+  background: var(--color-space);
+  color: var(--color-pindiv);
   padding: 15px;
   height: 100px;
 }
