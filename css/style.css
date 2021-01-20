@@ -35,7 +35,7 @@
   .readbox {
     -ms-flex: 30%; 
     flex: 30%;
-    background-color: #424242;
+    background: #424242;
     padding: 20px;
     border: 3px solid #ccc;
     color: #eee;
@@ -50,14 +50,14 @@
   .inbox {   
     -ms-flex: 70%; 
     flex: 70%;
-    background-color: #424242;
+    background: #424242;
     padding: 20px;
     color: #eee;
   }
   .codebox {   
     -ms-flex: 70%; 
     flex: 70%;
-    background-color: #424242;
+    background: #424242;
     padding: 20px;
     color: #eee;
   }
