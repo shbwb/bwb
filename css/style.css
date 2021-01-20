@@ -24,6 +24,8 @@
     --color-info: #084B8A;
     --color-secondary: #d1d1d1;
   }
+}
+@media (prefers-color-scheme: dark) {
   background: #424242;
 }
 /*----------------------------------*/
