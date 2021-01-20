@@ -952,13 +952,13 @@ body {
 .readbox {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: white;
+  background-color: var(--color-space);
   padding: 20px;
   border: 3px solid #ccc;
   color: var(--color-pindiv);
 }
 .readbox-fixed {
-  background: white;
+  background: var(--color-space);
   color: var(--color-pindiv);
   padding: 15px;
   height: 100px;
