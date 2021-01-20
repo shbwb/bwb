@@ -27,23 +27,23 @@
   color: white;
 }
 success {
-	color: #4CAF50;
+	color: var(--color-success);
 }
 secondary {
-	color: #f1f1f1;
+	color: var(--color-secondary);
 }
 info { 
-	color: #81BEF7;
+	color: var(--color-info);
 }
 black {
-	color: #000;
+	color: var(--color-black);
 }
 alert {
-  color: #F78181;
+  color: var(--color-alert);
 }
 default {
-  color: #1abc9c;
+  color: var(--color-default);
 }
 warning {
-  color: #FF8000;
+  color: var(--color-warning);
 }
