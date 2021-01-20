@@ -26,7 +26,7 @@
     --color-info: #084B8A;
     --color-secondary: #d1d1d1;
     --color-space: #585858;
-    --color-pindiv: #333;
+    --color-pindiv: #eee;
   }
 }
 @media (prefers-color-scheme: dark) {
