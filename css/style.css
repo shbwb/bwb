@@ -26,7 +26,14 @@
   }
 }
 @media (prefers-color-scheme: dark) {
-  background: #424242;
+  html {
+    background: #424242;
+    color: #eee;
+  }
+  body {
+    background: #424242;
+    color: #eee;
+  }
 }
 /*----------------------------------*/
 * {
