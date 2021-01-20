@@ -32,21 +32,11 @@
   body {
     background: #424242;
   }
-  .readbox {
-    color: #333;
+  /* testing
+  p, h1, h2, h3, h4, h5, h6, b, i, strong {
+    color: #eee;
   }
-  .readbox-fixed {
-    color: #333;
-  }
-  .inbox {
-    color: #333;
-  }
-  .codebox {
-    color: #333;
-  }
-  .codebox-fixed {
-    color: #333;
-  }
+  */
 }
 /*----------------------------------*/
 * {
