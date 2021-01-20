@@ -32,7 +32,7 @@
   body {
     background: #424242;
   }
-  /* testing */
+  /* testing *//*
   .readbox {
     -ms-flex: 30%; 
     flex: 30%;
@@ -68,7 +68,7 @@
     padding: 15px;
     height: 100px;
   }
-  /* testing end */
+  *//* testing end */
 }
 /*----------------------------------*/
 * {
