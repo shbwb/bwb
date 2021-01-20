@@ -28,11 +28,9 @@
 @media (prefers-color-scheme: dark) {
   html {
     background: #424242;
-    color: #eee;
   }
   body {
     background: #424242;
-    color: #eee;
   }
   .readbox {
     color: #333;
