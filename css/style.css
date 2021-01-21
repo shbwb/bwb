@@ -959,6 +959,7 @@ body {
   padding: 20px;
   border: 3px solid #ccc;
   color: var(--color-pindiv);
+  width:100%;
 }
 .readbox-fixed {
   background: var(--color-space);
@@ -966,6 +967,7 @@ body {
   padding: 15px;
   height: 100px;
   border: 3px solid #ccc;
+  width:100%;
 }
 .inbox {   
   -ms-flex: 70%; 
@@ -973,6 +975,7 @@ body {
   background-color: var(--color-space);
   padding: 20px;
   color: var(--color-pindiv);
+  width:100%;
 }
 .codebox {   
   -ms-flex: 70%; 
@@ -980,12 +983,14 @@ body {
   background-color: var(--color-space);
   padding: 20px;
   color: var(--color-pindiv);
+  width:100%;
 }
 .codebox-fixed {
   background: var(--color-space);
   color: var(--color-pindiv);
   padding: 15px;
   height: 100px;
+  width:100%;
 }
 .scroll {
   overflow: scroll;
