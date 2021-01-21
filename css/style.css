@@ -953,8 +953,6 @@ body {
   }
 }
 .readbox {
-  -ms-flex: 30%; 
-  flex: 30%;
   background-color: var(--color-space);
   padding: 20px;
   border: 3px solid #ccc;
@@ -970,16 +968,12 @@ body {
   width:100%;
 }
 .inbox {   
-  -ms-flex: 70%; 
-  flex: 70%;
   background-color: var(--color-space);
   padding: 20px;
   color: var(--color-pindiv);
   width:100%;
 }
 .codebox {   
-  -ms-flex: 70%; 
-  flex: 70%;
   background-color: var(--color-space);
   padding: 20px;
   color: var(--color-pindiv);
