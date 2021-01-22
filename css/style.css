@@ -954,7 +954,7 @@ body {
 }
 .readbox {
   background-color: var(--color-space);
-  padding: 20px;
+
   border: 3px solid #ccc;
   color: var(--color-pindiv);
 }
