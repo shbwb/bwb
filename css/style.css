@@ -64,6 +64,12 @@ figure img {
   -o-filter: grayscale(100%); 
   -webkit-filter: grayscale(1);
 }
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
 .text-center {
   text-align: center;
 }
