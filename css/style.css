@@ -29,6 +29,7 @@
     --color-space: #585858;
     --color-pindiv: #eee;
     --color-cardhover: #A4A4A4;
+    --color-darkspace: #FAFAFA;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -358,8 +359,8 @@ kbd,
 .kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #000;
-  background-color: #FAFAFA;
+  color: var(--color-pindiv);
+  background-color: var(--color-darkspace);
   border-radius: 0.2rem;
   border:1px solid #a1a1a1;
 }
