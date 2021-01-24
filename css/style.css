@@ -15,6 +15,7 @@
   --color-space: #f1f1f1;
   --color-pindiv: #333;
   --color-cardhover: #BDBDBD;
+  --color-darkspace: #FAFAFA
 }
 /*----------- test mode -----------*/
 @media (prefers-color-scheme: dark) {
@@ -29,7 +30,7 @@
     --color-space: #585858;
     --color-pindiv: #eee;
     --color-cardhover: #A4A4A4;
-    --color-darkspace: #FAFAFA;
+    --color-darkspace: #333;
   }
 }
 @media (prefers-color-scheme: dark) {
