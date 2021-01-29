@@ -880,22 +880,22 @@ body {
   color: #eee;
 }
 .header > h5 {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .header > h6 {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .header > p {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .header > b {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .header > strong {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .header > i {
-  color: var(--color-pindiv);
+  color: #eee;
 }
 .navbar-theme-dark {
   overflow: hidden;
