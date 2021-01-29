@@ -48,40 +48,8 @@
   -webkit-box-sizing:border-box;
   font-family: Arial;
 }
-/*
 p, h1, h2, h3, h4, h5, h6, i, strong, b, center {
   color: var(--color-pindiv);
-}
-*/
-.header > h1 {
-  color: #eee;
-}
-.header > h2 {
-  color: #eee;
-}
-.header > h3 {
-  color: #eee;
-}
-.header > h4 {
-  color: #eee;
-}
-.header > h5 {
-  color: #eee;
-}
-.header > h6 {
-  color: #eee;
-}
-.header > b {
-  color: #eee;
-}
-.header > strong {
-  color: #eee;
-}
-.header > center { /* changed in html 5 */
-  color: #eee;
-}
-.header > i {
-  color: #eee;
 }
 figure {
   margin: 0;
@@ -897,6 +865,9 @@ body {
    font-size: 40px;		
    color: #eee;
  }
+.header > h1, h2, h3, h4, h5, h6, p, i, b, center, strong {
+  color: #eee;
+}
 .navbar-theme-dark {
   overflow: hidden;
   background-color: #333;
