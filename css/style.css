@@ -857,12 +857,13 @@ body {
 }
 .header {
   background: var(--color-default);
-  color: white;
+  color: #eee;
   padding: 30px;
   text-align: center;
 }
 .header h1 {		
    font-size: 40px;		
+   color: #eee;
  }
 .navbar-theme-dark {
   overflow: hidden;
