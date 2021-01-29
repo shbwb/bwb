@@ -867,7 +867,34 @@ body {
    font-size: 40px;		
    color: #eee;
  }
-.header > h1, h2, h3, h4, h5, h6, p, i, b, center, strong {
+.header > h1 {
+  color: #eee;
+}
+.header > h2 {
+  color: #eee;
+}
+.header > h3 {
+  color: #eee;
+}
+.header > h4 {
+  color: #eee;
+}
+.header > h5 {
+  color: #eee;
+}
+.header > h6 {
+  color: #eee;
+}
+.header > p {
+  color: #eee;
+}
+.header > b {
+  color: #eee;
+}
+.header > strong {
+  color: #eee;
+}
+.header > i {
   color: #eee;
 }
 .navbar-theme-dark {
