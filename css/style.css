@@ -886,7 +886,7 @@ body {
   color: #eee;
 }
 .header > p {
-  color: #eee;
+  color: var(--color-pindiv);
 }
 .header > b {
   color: #eee;
