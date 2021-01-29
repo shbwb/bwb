@@ -49,7 +49,7 @@
   font-family: Arial;
 }
 p, h1, h2, h3, h4, h5, h6, i, strong, b, center {
-  color: var(--color-pindiv);
+  color: #333;
 }
 figure {
   margin: 0;
