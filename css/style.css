@@ -921,6 +921,9 @@ body {
   background-color: #ddd;
   color: black;
 }
+.navbar-theme-dark > p {
+  color: #eee;
+}
 .navbar-theme-light {
   overflow: hidden;
   background-color: #ddd;
@@ -958,6 +961,9 @@ body {
 .navbar-theme-dark-scroll a:hover {
   background-color: #ddd;
   color: black;
+}
+.navbar-theme-dark-scroll > p {
+  color: #eee;
 }
 .navbar-theme-light-scroll {
   background-color: #ddd;
