@@ -40,6 +40,4 @@ You can download our main code to your computer here :)
 
 # [Support](https://bwb.js.org/pages/support/)
 
-<a href="http://github.com/{{ site.github }}" target="-blank" title="GitHub">
-    <img src="logo.jpg">
-</a>
+<iframe src="https://ghbtns.com/github-btn.html?user=shbwb&repo=bwb&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
