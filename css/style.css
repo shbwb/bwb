@@ -48,9 +48,11 @@
   -webkit-box-sizing:border-box;
   font-family: Arial;
 }
+/*
 p, h1, h2, h3, h4, h5, h6, i, strong, b, center {
   color: #333;
 }
+*/
 figure {
   margin: 0;
   padding: 0;
@@ -693,6 +695,9 @@ default {
 }
 warning {
   color: var(--color-warning);
+}
+p {
+  color: var(--color-pindiv);
 }
 small,
 .small {
