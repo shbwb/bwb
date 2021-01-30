@@ -12,7 +12,7 @@
 ![stars](https://img.shields.io/github/stars/shbwb/bwb)
 [![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Why called BWB
-A **B**asic **W**ebpage **B**uilder
+A **B**asic **W**ebpage **B**uilder. 
 It can help you build a webpage quickly.
 
 # Usage
@@ -25,8 +25,8 @@ You need to add these 2 urls to use **bwb**
 
 # [Start](https://bwb-docs.js.org) 
 
-The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-docs/fork) or [send us an e-mail](mailto:xiaoqi77614@icloud.com)
-If you helped us, your GitHub username will display on this page.
+The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-docs/fork) or [send us an e-mail](mailto:xiaoqi77614@icloud.com).
+ If you helped us, your GitHub username will display on this page.
 
 <hr />
 
