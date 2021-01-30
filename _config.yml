@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-
 title: BWB offical page
+subtitle: A Basic Webpage Builder
+description: A Minimalist Front-end Framework
 author: qbsz
-aubout: A front-end junior high school student developer who loves web developing.
+language: en
