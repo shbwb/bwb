@@ -39,3 +39,7 @@ You can download our main code to your computer here :)
 <hr />
 
 # [Support](https://bwb.js.org/pages/support/)
+
+<a href="http://github.com/{{ site.github }}" target="-blank" title="GitHub">
+    <img src="logo.jpg">
+</a>
