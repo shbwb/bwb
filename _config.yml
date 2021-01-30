@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
+language: en
 title: BWB offical page
 subtitle: A Basic Webpage Builder
 description: A Minimalist Front-end Framework
 author: qbsz
-language: en
+url: https://bwb.js.org
