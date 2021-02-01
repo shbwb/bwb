@@ -708,7 +708,7 @@ mark,
   color: #000;
   background: #FFBF00;
 }
-input[focus=on] {
+input[focus=true] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -718,10 +718,10 @@ input[focus=on] {
   transition: 0.5s;
   outline: none;
 }
-input[focus=on]:focus {
+input[focus=true]:focus {
   border: 3px solid #555;
 }
-input[focus=off] {
+input[focus=false] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
