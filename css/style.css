@@ -162,7 +162,7 @@ marquee > a:hover {
   color: #8A0829;
   text-decoration: underline;
 }
-bdo[dir=rtl] {
+bdo[dir="rtl"] {
   color: #333;
   font-family: Georgia;
 }
