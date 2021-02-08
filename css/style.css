@@ -166,6 +166,42 @@ bdo[dir="rtl"] {
   color: #333;
   font-family: Georgia;
 }
+/* Use the <badge> tag :) */
+badge {
+  padding: 0.2rem 0.4rem;
+  font-size: 87.5%;
+  color: var(--color-pindiv);
+  background-color: var(--color-darkspace);
+  border-radius: 0.2rem;
+  border: 1px solid #a1a1a1;
+  display: inline;
+}
+badge.size.small {
+  padding: 0.2rem 0.4rem;
+  font-size: 87.5%;
+  color: var(--color-pindiv);
+  background-color: var(--color-darkspace);
+  border-radius: 0.2rem;
+  border:1px solid #a1a1a1;
+  display: inline;
+}
+badge.size.medium {
+  padding: 0.2rem 0.4rem;
+  font-size: 120%;
+  color: var(--color-pindiv);
+  background-color: var(--color-darkspace);
+  border-radius: 0.2rem;
+  border:1px solid #a1a1a1;
+  display: inline;
+}
+badge.size.large {
+  padding: 0.2rem 0.4rem;
+  font-size: 150%;
+  color: var(--color-pindiv);
+  background-color: var(--color-darkspace);
+  border-radius: 0.2rem;
+  border:1px solid #a1a1a1;
+}
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -358,8 +394,7 @@ xmp,
 a > code {
   color: inherit;
 }
-kbd,
-.kbd {
+kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: var(--color-pindiv);
