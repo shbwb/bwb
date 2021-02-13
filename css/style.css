@@ -794,7 +794,7 @@ input[focus="false"] {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-.bar {
+.window {
 	padding:20px 20px; 
 	border-radius:6px;
 }
