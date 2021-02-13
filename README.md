@@ -11,9 +11,6 @@
 ![forks](https://img.shields.io/github/forks/shbwb/bwb)
 ![stars](https://img.shields.io/github/stars/shbwb/bwb)
 [![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-![issue](https://bwb.js.org/pages/bwb-post)
-
 # Why called BWB
 A **B**asic **W**ebpage **B**uilder. 
 It can help you build a webpage quickly.
