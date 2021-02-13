@@ -12,7 +12,7 @@
 ![stars](https://img.shields.io/github/stars/shbwb/bwb)
 [![Gitter](https://badges.gitter.im/bwb-community/community.svg)](https://gitter.im/bwb-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-![BWB POST](https://bwb.js.org/pages/bwb-logo-pic)
+![BWB POST](https://bwb.js.org/pages/bwb-logo-pic.PNG)
 
 # Why called BWB？
 A **B**asic **W**ebpage **B**uilder. 
