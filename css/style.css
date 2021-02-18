@@ -47,31 +47,31 @@
   background: #eee;
   border: solid 5px var(--color-default);
 }
-.wrapper .alert {
+.wrapper.border-alert {
   border: solid 5px var(--color-alert);
   background: #eee;
 }
-.wrapper .secondary {
+.wrapper.border-secondary {
   border: solid 5px var(--color-secondary);
   background: #eee;
 }
-.wrapper .info {
+.wrapper.border-info {
   border: solid 5px var(--color-info);
   background: #eee;
 }
-.wrapper .default {
+.wrapper.border-default {
   border: solid 5px var(--color-default);
   background: #eee;
 }
-.wrapper .success {
+.wrapper.border-success {
   border: solid 5px var(--color-success);
   background: #eee;
 }
-.wrapper .black {
+.wrapper.border-black {
   border: solid 5px var(--color-black);
   background: #eee;
 }
-.wrapper .warning {
+.wrapper.border-warning {
   border: solid 5px var(--color-warning);
   background: #eee;
 }
