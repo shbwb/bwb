@@ -45,35 +45,7 @@
 /*----------- Plugin part ----------*/
 .wrapper {
   background: #eee;
-  border: solid 5px var(--color-default);
-}
-.borderalert {
-  border: solid 5px var(--color-alert);
-  background: #eee;
-}
-.bordersecondary {
-  border: solid 5px var(--color-secondary);
-  background: #eee;
-}
-.borderinfo {
-  border: solid 5px var(--color-info);
-  background: #eee;
-}
-.borderdefault {
-  border: solid var(--color-default);
-  background: #eee;
-}
-.bordersuccess {
-  border: solid var(--color-success);
-  background: #eee;
-}
-.borderblack {
-  border: solid var(--color-black);
-  background: #eee;
-}
-.borderwarning {
-  border: solid var(--color-warning);
-  background: #eee;
+  border: solid 5px black;
 }
 /*----------------------------------*/
 * {
