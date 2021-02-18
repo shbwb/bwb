@@ -41,4 +41,7 @@ You can download our main code to your computer here :)
 
 <hr />
 
+# Plugins
+[BWB Timer](https://github.com/shbwb/bwb-timer)
+
 # [Support](https://bwb.js.org/pages/support/)
