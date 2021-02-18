@@ -42,6 +42,33 @@
   }
 }
 /*----------------------------------*/
+/*----------- Plugin part ----------*/
+.wrapper {
+  background: #eee;
+  border: solid 5px var(--color-default);
+}
+.wrapper.alert {
+  border: solid 5px var(--color-alert);
+}
+.wrapper.secondary {
+  border: solid 5px var(--color-secondary);
+}
+.wrapper.info {
+  border: solid 5px var(--color-info);
+}
+.wrapper.default {
+  border: solid 5px var(--color-default);
+}
+.wrapper.success {
+  border: solid 5px var(--color-success);
+}
+.wrapper.black {
+  border: solid 5px var(--color-black);
+}
+.wrapper.warning {
+  border: solid 5px var(--color-warning);
+}
+/*----------------------------------*/
 * {
   box-sizing:border-box; 
   -moz-box-sizing:border-box; 
