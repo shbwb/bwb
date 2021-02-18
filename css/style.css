@@ -60,19 +60,19 @@
   background: #eee;
 }
 .borderdefault {
-  border: solid 5px var(--color-default);
+  border: solid var(--color-default);
   background: #eee;
 }
 .bordersuccess {
-  border: solid 5px var(--color-success);
+  border: solid var(--color-success);
   background: #eee;
 }
 .borderblack {
-  border: solid 5px var(--color-black);
+  border: solid var(--color-black);
   background: #eee;
 }
 .borderwarning {
-  border: solid 5px var(--color-warning);
+  border: solid var(--color-warning);
   background: #eee;
 }
 /*----------------------------------*/
@@ -106,10 +106,13 @@ figure img {
   -webkit-filter: grayscale(1);
 }
 .left {
-	float:left;
+	float: left;
 }
 .right {
-	float:right;
+	float: right;
+}
+.center {
+  float: center;
 }
 .text-center {
   text-align: center;
