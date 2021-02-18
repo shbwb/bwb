@@ -49,24 +49,31 @@
 }
 .wrapper.alert {
   border: solid 5px var(--color-alert);
+  background: #eee;
 }
 .wrapper.secondary {
   border: solid 5px var(--color-secondary);
+  background: #eee;
 }
 .wrapper.info {
   border: solid 5px var(--color-info);
+  background: #eee;
 }
 .wrapper.default {
   border: solid 5px var(--color-default);
+  background: #eee;
 }
 .wrapper.success {
   border: solid 5px var(--color-success);
+  background: #eee;
 }
 .wrapper.black {
   border: solid 5px var(--color-black);
+  background: #eee;
 }
 .wrapper.warning {
   border: solid 5px var(--color-warning);
+  background: #eee;
 }
 /*----------------------------------*/
 * {
