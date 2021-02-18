@@ -419,8 +419,14 @@ pre,
 }
 address,
 .address {
-  margin-bottom: 1rem;
+  margin: 6px;
   line-height: inherit;
+  display: block;
+  border-radius: 4px;
+  border: solid 1px #d1d1d1;
+  padding: 6px;
+  padding-left: 10px;
+  font-size: 80%;
 }
 b,
 strong {
