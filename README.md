@@ -6,6 +6,7 @@
 
 <hr>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shbwb.bwb)
 ![issue](https://img.shields.io/github/issues/shbwb/bwb)
 ![license](https://img.shields.io/github/license/shbwb/bwb)
 ![forks](https://img.shields.io/github/forks/shbwb/bwb)
