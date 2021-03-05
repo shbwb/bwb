@@ -77,6 +77,9 @@ figure img {
   -o-filter: grayscale(100%); 
   -webkit-filter: grayscale(1);
 }
+.text-shadow {
+  text-shadow: 2px 2px 4px #000000;
+}
 .left {
 	float: left;
 }
