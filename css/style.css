@@ -667,6 +667,9 @@ button {
 .smooth10 {
 	border-radius: 20px;
 }
+.circle {
+	border-radius: 50%;
+}
 .success {
 	background-color: var(--color-success);
 	color: white;
