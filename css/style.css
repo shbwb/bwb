@@ -488,6 +488,9 @@ textarea,
   background-color: #dee2e6;
   border-color: #dee2e6;
 }
+.disabled {
+  pointer-events: none;
+}
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
