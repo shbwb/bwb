@@ -17,7 +17,6 @@
   --color-cardhover: #BDBDBD;
   --color-darkspace: #FAFAFA
 }
-/*----------- test mode -----------*/
 @media (prefers-color-scheme: dark) {
   :root {
     --color-black: #333;
@@ -41,11 +40,16 @@
     background: #424242;
   }
 }
-/*----------------------------------*/
 /*----------- Plugin part ----------*/
 .wrapper {
   background: #eee;
   border: solid 5px black;
+}
+.bwb,
+#bwb {
+  color: var(--color-pindiv);
+  padding: 20px;
+  background: inherit;
 }
 /*----------------------------------*/
 * {
