@@ -800,6 +800,15 @@ input[focus="false"] {
   -moz-transition: box-shadow .5s;
   color: var(--color-pindiv);
 }
+.div-hover:hover {
+  -moz-box-shadow: 10px 10px 5px var(--color-cardhover);
+  -webkit-box-shadow: 10px 10px 5px var(--color-cardhover);
+  box-shadow: 10px 10px 5px var(--color-cardhover);
+  transition: box-shadow .5s;
+  -webkit-transition: box-shadow .5s;
+  -moz-transition: box-shadow .5s;
+  color: var(--color-pindiv);
+}
 .loader {
   border: 16px solid #f3f3f3;
   border-radius: 50%;
