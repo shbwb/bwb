@@ -14,7 +14,7 @@
   --color-secondary: #f1f1f1;
   --color-space: #f1f1f1;
   --color-pindiv: #333;
-  --color-cardhover: #BDBDBD;
+  --color-cardhover: #888888;
   --color-darkspace: #FAFAFA
 }
 @media (prefers-color-scheme: dark) {
@@ -28,7 +28,7 @@
     --color-secondary: #d1d1d1;
     --color-space: #585858;
     --color-pindiv: #eee;
-    --color-cardhover: #A4A4A4;
+    --color-cardhover: #2E2E2E;
     --color-darkspace: #333;
   }
 }
@@ -792,9 +792,9 @@ input[focus="false"] {
   font-family: arial;
 }
 .card.hover:hover {
-  -moz-box-shadow: 10px 10px 5px #2E2E2E;
-  -webkit-box-shadow: 10px 10px 5px #2E2E2E;
-  box-shadow: 10px 10px 5px #2E2E2E;
+  -moz-box-shadow: 10px 10px 5px var(--color-cardhover);
+  -webkit-box-shadow: 10px 10px 5px var(--color-cardhover);
+  box-shadow: 10px 10px 5px var(--color-cardhover);
   transition: box-shadow .5s;
   -webkit-transition: box-shadow .5s;
   -moz-transition: box-shadow .5s;
