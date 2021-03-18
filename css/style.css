@@ -792,9 +792,11 @@ input[focus="false"] {
   font-family: arial;
 }
 .card.hover:hover {
-  background-color: var(--color-cardhover);
-  box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: background-color .5s;
+  -moz-box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888888;
+  transition: box-shadow .5s;
+  -webkit-transition: box-shadow .5s;
+  -moz-transition: box-shadow .5s;
   color: var(--color-pindiv);
 }
 .loader {
