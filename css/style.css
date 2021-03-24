@@ -800,7 +800,7 @@ input[focus="false"] {
   -moz-transition: box-shadow .5s;
   color: var(--color-pindiv);
 }
-.div-hover:hover {
+.hover:hover {
   -moz-box-shadow: 10px 10px 5px var(--color-cardhover);
   -webkit-box-shadow: 10px 10px 5px var(--color-cardhover);
   box-shadow: 10px 10px 5px var(--color-cardhover);
@@ -858,42 +858,34 @@ input[focus="false"] {
   -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
   animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }
-
 @-webkit-keyframes fadein {
   from {bottom: 0; opacity: 0;} 
   to {bottom: 30px; opacity: 1;}
 }
-
 @-o-keyframes fadein {
   from {bottom: 0; opacity: 0;} 
   to {bottom: 30px; opacity: 1;}
 }
-
 @-moz-keyframes fadein {
   from {bottom: 0; opacity: 0;} 
   to {bottom: 30px; opacity: 1;}
 }
-
 @keyframes fadein {
   from {bottom: 0; opacity: 0;}
   to {bottom: 30px; opacity: 1;}
 }
-
 @-webkit-keyframes fadeout {
   from {bottom: 30px; opacity: 1;} 
   to {bottom: 0; opacity: 0;}
 }
-
 @-o-keyframes fadeout {
   from {bottom: 30px; opacity: 1;} 
   to {bottom: 0; opacity: 0;}
 }
-
 @-moz-keyframes fadeout {
   from {bottom: 30px; opacity: 1;} 
   to {bottom: 0; opacity: 0;}
 }
-
 @keyframes fadeout {
   from {bottom: 30px; opacity: 1;}
   to {bottom: 0; opacity: 0;}
