@@ -32,6 +32,29 @@
   background: var(--color-warning);
   color: white;
 }
+/*
+.bg-success {
+	background-color: var(--color-success);
+}
+.bg-secondary {
+	background-color: var(--color-secondary);
+}
+.bg-info { 
+	background-color: var(--color-info);
+}
+.bg-black {
+	background-color: var(--color-black);
+}
+.bg-alert {
+	background-color: var(--color-alert);
+}
+.bg-default {
+  background: var(--color-default);
+}
+.bg-warning {
+  background: var(--color-warning);
+}
+*/
 success {
 	color: var(--color-success);
 }
