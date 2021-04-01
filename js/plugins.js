@@ -5,10 +5,13 @@
  */
 /*! plugins.js | MIT License */
 function snackbar() {
-    var x = document.getElementById("snackbar")
-    x.className = "show";
-    setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
+  var x = document.getElementById("snackbar")
+  x.className = "show";
+  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
 }
+function scrollToTop() { 
+  window.scrollTo(0, 0); 
+} 
 /* function timer() {
 	setTimeout(function() {alert(text)},time)
 }
