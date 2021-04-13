@@ -112,7 +112,7 @@ ul.none {
 }
 .pagination li {display: inline;}
 .pagination li a {
-  color: black;
+  color: var(--color-pindiv);
   float: left;
   padding: 8px 16px;
   text-decoration: none;
@@ -120,7 +120,7 @@ ul.none {
 }
 .pagination li a.active {
   background-color: #4CAF50;
-  color: white;
+  color: var(--color-pindiv);
 }
 .pagination li a:hover:not(.active) {background-color: #ddd;}
 ul.pagination {
@@ -130,7 +130,7 @@ ul.pagination {
 }
 ul.pagination li {display: inline;}
 ul.pagination li a {
-  color: black;
+  color: var(--color-pindiv);
   float: left;
   padding: 8px 16px;
   text-decoration: none;
@@ -138,7 +138,7 @@ ul.pagination li a {
 }
 ul.pagination li a.active {
   background-color: #4CAF50;
-  color: white;
+  color: var(--color-pindiv);
 }
 ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 
@@ -526,7 +526,7 @@ h6, .h6 {
 }
 
 .ws-sm-1, .ws-sm-2, .ws-sm-3, .ws-sm-4, .ws-sm-5, .ws-md-1, .ws-md-2, .ws-md-3, .ws-md-4, .ws-md-5, .ws-lg-1, .ws-lg-2, .ws-lg-3, .ws-lg-4, .ws-lg-5 {
-  color: black;
+  color: var(--color-pindiv);
 }
 .ws-sm-1 {
   font-size: 15%
