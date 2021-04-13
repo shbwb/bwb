@@ -145,28 +145,28 @@ ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 ul.breadcrumb {
   padding: 8px 16px;
   list-style: none;
-  background-color: #eee;
+  background-color: var(--color-darkspace);
 }
 ul.breadcrumb li {display: inline;}
 ul.breadcrumb li+li:before {
   padding: 8px;
-  color: black;
+  color: var(--color-pindiv);
   content: "/";
 }
 .breadcrumb {
   padding: 8px 16px;
   list-style: none;
-  background-color: #eee;
+  background-color: var(--color-darkspace);
 }
 .breadcrumb li {display: inline;}
 .breadcrumb li+li:before {
   padding: 8px;
-  color: black;
+  color: var(--color-pindiv);
   content: "/";
 }
 marquee {
   font-size: 97.5%;
-  color: #333;
+  color: var(--color-pindiv);
 }
 marquee > a {
   font-size: 97.5%;
@@ -179,7 +179,7 @@ marquee > a:hover {
   text-decoration: underline;
 }
 bdo[dir="rtl"] {
-  color: #333;
+  color: var(--color-pindiv);
   font-family: Georgia;
 }
 /* Use the <badge> tag :) */
