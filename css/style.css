@@ -120,7 +120,7 @@ ul.none {
 }
 .pagination li a.active {
   background-color: #4CAF50;
-  color: var(--color-pindiv);
+  color: black;
 }
 .pagination li a:hover:not(.active) {background-color: #ddd;}
 ul.pagination {
@@ -138,7 +138,7 @@ ul.pagination li a {
 }
 ul.pagination li a.active {
   background-color: #4CAF50;
-  color: var(--color-pindiv);
+  color: black;
 }
 ul.pagination li a:hover:not(.active) {background-color: #ddd;}
 
