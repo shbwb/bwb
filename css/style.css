@@ -58,11 +58,9 @@
   -webkit-box-sizing:border-box;
   font-family: Arial;
 }
-/*
 p, h1, h2, h3, h4, h5, h6, i, strong, b, center {
-  color: #333;
+  color: var(--color-pindiv);
 }
-*/
 figure {
   margin: 0;
   padding: 0;
@@ -529,49 +527,49 @@ h6, .h6 {
   color: var(--color-pindiv);
 }
 .ws-sm-1 {
-  font-size: 15%
+  font-size: 15%;
 }
 .ws-sm-2 {
-  font-size: 35%
+  font-size: 35%;
 }
 .ws-sm-3 {
-  font-size: 55%
+  font-size: 55%;
 }
 .ws-sm-4 {
-  font-size: 75%
+  font-size: 75%;
 }
 .ws-sm-5 {
-  font-size: 95%
+  font-size: 95%;
 }
 .ws-md-1 {
-  font-size: 115%
+  font-size: 115%;
 }
 .ws-md-2 {
-  font-size: 135%
+  font-size: 135%;
 }
 .ws-md-3 {
-  font-size: 155%
+  font-size: 155%;
 }
 .ws-md-4 {
-  font-size: 175%
+  font-size: 175%;
 }
 .ws-md-5 {
-  font-size: 195%
+  font-size: 195%;
 }
 .ws-lg-1 {
-  font-size: 215%
+  font-size: 215%;
 }
 .ws-lg-2 {
-  font-size: 235%
+  font-size: 235%;
 }
 .ws-lg-3 {
-  font-size: 255%
+  font-size: 255%;
 }
 .ws-lg-4 {
-  font-size: 275%
+  font-size: 275%;
 }
 .ws-lg-5 {
-  font-size: 295%
+  font-size: 295%;
 }
 block {
   display: block;
