@@ -47,6 +47,8 @@ All the good plugins and the offical plugins will display on this page!
 
 # Thanks
 [r-i-c-h](https://github.com/r-i-c-h)
-on 26 Nov 2020 ---- Archivement: The first!
+on 26 Nov 2020 
+
+---- Archivement: The first!
 
 # [Support](https://bwb.js.org/pages/support/)
