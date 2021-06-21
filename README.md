@@ -45,4 +45,7 @@ You can download our main code to your computer here :)
 
 All the good plugins and the offical plugins will display on this page!
 
+# Thanks
+[r-i-c-h](https://github.com/r-i-c-h)
+
 # [Support](https://bwb.js.org/pages/support/)
