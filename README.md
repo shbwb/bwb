@@ -27,7 +27,7 @@ You need to add these 2 urls to use **bwb**
 
 # [Start](https://bwb-docs.js.org) 
 
-The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-docs/fork) or [send us an e-mail](mailto:xiaoqi77614@icloud.com).
+The document has not been finished yet! [Help us](https://github.com/shbwb/bwb-docs/fork) or [send us an e-mail](mailto:crqboy2008@icloud.com).
  If you helped us, your GitHub username will display on this page.
 
 <hr />
